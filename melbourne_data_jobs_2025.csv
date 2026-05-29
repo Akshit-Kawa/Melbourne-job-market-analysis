@@ -1,0 +1,856 @@
+role,industry,salary_aud,experience_level,remote_friendly,top_skill_1,top_skill_2,top_skill_3,yoy_growth_pct
+Data Analyst,Finance & Banking,75809,Graduate (0-1 yrs),Yes,SQL,Power BI,Data Cleaning,18.0
+Data Analyst,Manufacturing,82926,Junior (1-3 yrs),No,Power BI,Tableau,SQL,18.6
+Data Analyst,Government,102292,Mid (3-5 yrs),Yes,Power BI,Tableau,Data Cleaning,17.7
+Data Analyst,Healthcare,107845,Junior (1-3 yrs),Hybrid,SQL,Python,Tableau,12.8
+Data Analyst,Finance & Banking,101858,Senior (5+ yrs),Hybrid,SQL,Tableau,Python,19.3
+Data Analyst,Manufacturing,88005,Mid (3-5 yrs),Hybrid,Python,SQL,Tableau,15.8
+Data Analyst,Tech & SaaS,108688,Junior (1-3 yrs),No,Excel,Power BI,Tableau,15.7
+Data Analyst,Consulting,104231,Mid (3-5 yrs),Hybrid,Tableau,Python,Power BI,17.3
+Data Analyst,Government,63924,Graduate (0-1 yrs),No,SQL,Data Cleaning,Excel,15.9
+Data Analyst,Tech & SaaS,100589,Mid (3-5 yrs),Hybrid,Excel,SQL,Power BI,20.0
+Data Analyst,Tech & SaaS,84291,Mid (3-5 yrs),Hybrid,SQL,Excel,Data Cleaning,16.7
+Data Analyst,Media & Comms,63971,Graduate (0-1 yrs),Hybrid,Excel,Python,Data Cleaning,13.0
+Data Analyst,Consulting,72675,Graduate (0-1 yrs),Hybrid,Tableau,Python,Data Cleaning,14.2
+Data Analyst,Tech & SaaS,75000,Senior (5+ yrs),Hybrid,SQL,Power BI,Python,20.8
+Data Analyst,Retail & E-commerce,55000,Graduate (0-1 yrs),Yes,Power BI,Tableau,Excel,16.4
+Data Analyst,Retail & E-commerce,76565,Junior (1-3 yrs),Yes,Excel,SQL,Python,21.3
+Data Analyst,Government,69807,Junior (1-3 yrs),Hybrid,Tableau,Python,SQL,19.7
+Data Analyst,Finance & Banking,112141,Senior (5+ yrs),No,Tableau,SQL,Power BI,18.4
+Data Analyst,Manufacturing,71379,Junior (1-3 yrs),Hybrid,Power BI,Data Cleaning,SQL,18.8
+Data Analyst,Healthcare,55000,Graduate (0-1 yrs),No,SQL,Excel,Python,16.1
+Data Analyst,Manufacturing,106984,Junior (1-3 yrs),Hybrid,Python,Excel,SQL,16.1
+Data Analyst,Retail & E-commerce,66922,Graduate (0-1 yrs),No,Python,Power BI,Tableau,20.6
+Data Analyst,Education,92892,Mid (3-5 yrs),Hybrid,Power BI,Excel,SQL,21.9
+Data Analyst,Tech & SaaS,63628,Junior (1-3 yrs),Yes,Power BI,Tableau,Python,18.1
+Data Analyst,Government,76834,Junior (1-3 yrs),Yes,Tableau,SQL,Power BI,21.4
+Data Analyst,Education,71063,Graduate (0-1 yrs),Hybrid,Power BI,Python,Data Cleaning,24.4
+Data Analyst,Media & Comms,55542,Graduate (0-1 yrs),Hybrid,SQL,Power BI,Python,15.5
+Data Analyst,Healthcare,74320,Graduate (0-1 yrs),Yes,Excel,Python,Data Cleaning,18.7
+Data Analyst,Finance & Banking,62311,Graduate (0-1 yrs),Hybrid,Python,Data Cleaning,Power BI,15.8
+Data Analyst,Education,87073,Mid (3-5 yrs),No,Tableau,SQL,Python,17.4
+Data Analyst,Manufacturing,75974,Junior (1-3 yrs),Yes,SQL,Excel,Tableau,21.8
+Data Analyst,Manufacturing,121806,Mid (3-5 yrs),No,Power BI,Python,Tableau,20.3
+Data Analyst,Government,84797,Junior (1-3 yrs),Yes,Data Cleaning,Excel,Tableau,20.5
+Data Analyst,Finance & Banking,56689,Graduate (0-1 yrs),Hybrid,Python,Tableau,Excel,14.8
+Data Analyst,Manufacturing,105125,Mid (3-5 yrs),No,Data Cleaning,Tableau,Power BI,17.1
+Data Analyst,Healthcare,55000,Graduate (0-1 yrs),No,SQL,Excel,Tableau,15.8
+Data Analyst,Media & Comms,88132,Junior (1-3 yrs),No,Data Cleaning,SQL,Tableau,19.7
+Data Analyst,Tech & SaaS,55000,Graduate (0-1 yrs),Hybrid,Python,Tableau,Power BI,20.9
+Data Analyst,Government,70283,Mid (3-5 yrs),Yes,SQL,Excel,Tableau,21.5
+Data Analyst,Media & Comms,109940,Senior (5+ yrs),Hybrid,Tableau,Python,Power BI,16.6
+Data Analyst,Finance & Banking,120095,Senior (5+ yrs),Yes,Python,Excel,Data Cleaning,18.7
+Data Analyst,Government,87570,Junior (1-3 yrs),Hybrid,Power BI,Python,Data Cleaning,16.5
+Data Analyst,Finance & Banking,104081,Senior (5+ yrs),Hybrid,Excel,Python,Data Cleaning,13.9
+Data Analyst,Healthcare,86921,Mid (3-5 yrs),No,SQL,Data Cleaning,Tableau,19.6
+Data Analyst,Government,78527,Senior (5+ yrs),Yes,Tableau,Excel,Data Cleaning,19.2
+Data Analyst,Tech & SaaS,74202,Junior (1-3 yrs),Hybrid,Excel,SQL,Python,22.0
+Data Analyst,Tech & SaaS,84337,Mid (3-5 yrs),Hybrid,SQL,Excel,Python,18.6
+Data Analyst,Retail & E-commerce,108924,Mid (3-5 yrs),No,Tableau,Data Cleaning,SQL,11.5
+Data Analyst,Consulting,112692,Senior (5+ yrs),No,Excel,Power BI,Data Cleaning,21.4
+Data Analyst,Consulting,55000,Graduate (0-1 yrs),Hybrid,Tableau,Power BI,Python,13.7
+Data Analyst,Healthcare,73686,Graduate (0-1 yrs),Hybrid,Power BI,Tableau,Data Cleaning,19.8
+Data Analyst,Finance & Banking,79223,Junior (1-3 yrs),No,Excel,Python,SQL,16.4
+Data Analyst,Media & Comms,74846,Junior (1-3 yrs),Yes,Python,Excel,Tableau,23.9
+Data Analyst,Finance & Banking,94175,Junior (1-3 yrs),Yes,Python,Data Cleaning,Power BI,17.4
+Data Analyst,Manufacturing,108501,Mid (3-5 yrs),Hybrid,SQL,Tableau,Excel,19.2
+Data Analyst,Consulting,123711,Senior (5+ yrs),No,Tableau,Data Cleaning,Power BI,15.6
+Data Analyst,Media & Comms,59377,Graduate (0-1 yrs),Hybrid,Excel,Data Cleaning,Power BI,18.2
+Data Analyst,Media & Comms,65896,Graduate (0-1 yrs),No,Excel,Data Cleaning,Power BI,15.4
+Data Analyst,Tech & SaaS,73773,Graduate (0-1 yrs),No,Python,Tableau,SQL,20.1
+Data Analyst,Media & Comms,107603,Mid (3-5 yrs),Yes,Tableau,Python,Power BI,17.1
+Data Analyst,Manufacturing,63805,Graduate (0-1 yrs),Hybrid,SQL,Tableau,Excel,18.1
+Data Analyst,Consulting,82215,Junior (1-3 yrs),Hybrid,SQL,Tableau,Excel,15.5
+Data Analyst,Manufacturing,68404,Junior (1-3 yrs),No,Tableau,Python,SQL,16.7
+Data Analyst,Finance & Banking,83820,Senior (5+ yrs),No,Tableau,Power BI,SQL,19.5
+Data Analyst,Retail & E-commerce,104961,Mid (3-5 yrs),No,Python,SQL,Excel,12.8
+Data Analyst,Manufacturing,105343,Junior (1-3 yrs),Hybrid,Excel,SQL,Data Cleaning,21.7
+Data Analyst,Manufacturing,83919,Junior (1-3 yrs),Hybrid,Power BI,Excel,Python,17.4
+Data Analyst,Manufacturing,125065,Senior (5+ yrs),Hybrid,Excel,SQL,Tableau,18.5
+Data Analyst,Manufacturing,74147,Graduate (0-1 yrs),Hybrid,Python,Tableau,Power BI,20.3
+Data Analyst,Retail & E-commerce,81348,Mid (3-5 yrs),No,SQL,Power BI,Python,19.9
+Data Analyst,Education,97653,Mid (3-5 yrs),No,Tableau,Python,Data Cleaning,12.4
+Data Analyst,Tech & SaaS,108070,Junior (1-3 yrs),No,Data Cleaning,SQL,Excel,21.0
+Data Analyst,Finance & Banking,84462,Junior (1-3 yrs),No,Tableau,SQL,Data Cleaning,18.5
+Data Analyst,Finance & Banking,88944,Graduate (0-1 yrs),Yes,Power BI,Python,Excel,18.7
+Data Analyst,Consulting,64800,Mid (3-5 yrs),Hybrid,Python,SQL,Data Cleaning,17.2
+Data Analyst,Tech & SaaS,105114,Mid (3-5 yrs),Hybrid,Python,Power BI,SQL,15.1
+Data Analyst,Manufacturing,86305,Junior (1-3 yrs),Hybrid,Python,Power BI,Tableau,15.3
+Data Analyst,Media & Comms,100642,Senior (5+ yrs),No,Data Cleaning,Excel,Tableau,11.0
+Data Analyst,Government,93286,Mid (3-5 yrs),Hybrid,Data Cleaning,Power BI,SQL,18.8
+Data Analyst,Media & Comms,64800,Mid (3-5 yrs),Hybrid,Python,Tableau,Power BI,14.6
+Data Analyst,Retail & E-commerce,81704,Junior (1-3 yrs),Yes,Python,Excel,Power BI,25.6
+Data Analyst,Media & Comms,90356,Junior (1-3 yrs),Yes,Python,Excel,Power BI,19.6
+Data Analyst,Healthcare,107168,Junior (1-3 yrs),No,Tableau,Data Cleaning,Excel,20.5
+Data Analyst,Manufacturing,83403,Mid (3-5 yrs),Hybrid,SQL,Power BI,Tableau,17.9
+Data Analyst,Consulting,59755,Graduate (0-1 yrs),Yes,Power BI,Excel,Python,18.2
+Data Analyst,Manufacturing,96841,Senior (5+ yrs),No,Tableau,Excel,Power BI,13.5
+Data Analyst,Finance & Banking,106629,Mid (3-5 yrs),Yes,SQL,Power BI,Python,25.7
+Data Analyst,Consulting,73743,Graduate (0-1 yrs),No,SQL,Python,Power BI,14.7
+Data Analyst,Education,77053,Junior (1-3 yrs),Hybrid,Python,Power BI,SQL,13.8
+Data Analyst,Healthcare,100114,Mid (3-5 yrs),Hybrid,Tableau,Power BI,Data Cleaning,15.7
+Data Analyst,Manufacturing,86456,Junior (1-3 yrs),Yes,Power BI,Data Cleaning,Tableau,16.4
+Data Analyst,Manufacturing,107491,Mid (3-5 yrs),Hybrid,SQL,Tableau,Data Cleaning,19.5
+Data Analyst,Education,93086,Senior (5+ yrs),Hybrid,Excel,Data Cleaning,SQL,19.0
+Data Analyst,Healthcare,80085,Junior (1-3 yrs),No,Python,Data Cleaning,Tableau,14.2
+Data Analyst,Media & Comms,64876,Graduate (0-1 yrs),No,Data Cleaning,Excel,Power BI,18.6
+Data Analyst,Education,68090,Mid (3-5 yrs),Hybrid,Data Cleaning,Python,Excel,17.7
+Data Analyst,Healthcare,89441,Junior (1-3 yrs),Hybrid,Data Cleaning,Python,Tableau,16.1
+Data Analyst,Healthcare,111143,Senior (5+ yrs),No,Data Cleaning,Excel,SQL,16.7
+Data Analyst,Healthcare,69762,Graduate (0-1 yrs),Hybrid,Excel,Python,SQL,21.1
+Data Analyst,Consulting,66814,Graduate (0-1 yrs),Hybrid,Data Cleaning,Python,SQL,19.4
+Data Analyst,Finance & Banking,63769,Junior (1-3 yrs),No,Python,Power BI,Excel,19.2
+Data Analyst,Retail & E-commerce,64525,Graduate (0-1 yrs),Hybrid,Power BI,Data Cleaning,Tableau,10.9
+Data Analyst,Education,65484,Graduate (0-1 yrs),Hybrid,Power BI,Tableau,SQL,17.6
+Data Analyst,Retail & E-commerce,91206,Senior (5+ yrs),No,Excel,Power BI,SQL,19.7
+Data Analyst,Healthcare,67715,Graduate (0-1 yrs),Hybrid,Tableau,Data Cleaning,Power BI,11.6
+Data Analyst,Media & Comms,91060,Junior (1-3 yrs),Yes,Python,Power BI,Excel,16.9
+Data Analyst,Consulting,122355,Mid (3-5 yrs),Hybrid,SQL,Power BI,Excel,15.8
+Data Analyst,Finance & Banking,109522,Senior (5+ yrs),Yes,Python,Excel,Data Cleaning,17.3
+Data Analyst,Consulting,88863,Junior (1-3 yrs),Hybrid,Power BI,Python,Data Cleaning,22.1
+Data Analyst,Education,68784,Graduate (0-1 yrs),Hybrid,Tableau,SQL,Excel,21.1
+Data Analyst,Manufacturing,60000,Junior (1-3 yrs),Hybrid,Power BI,Python,SQL,17.9
+Data Analyst,Finance & Banking,105752,Senior (5+ yrs),Hybrid,Python,SQL,Tableau,20.0
+Data Analyst,Government,85903,Junior (1-3 yrs),No,Excel,Tableau,Power BI,11.8
+Data Analyst,Healthcare,131703,Mid (3-5 yrs),No,Excel,Tableau,Power BI,14.1
+Data Analyst,Healthcare,82114,Junior (1-3 yrs),Yes,SQL,Tableau,Data Cleaning,18.2
+Data Analyst,Finance & Banking,111903,Senior (5+ yrs),No,SQL,Python,Power BI,21.2
+Data Analyst,Media & Comms,84479,Junior (1-3 yrs),No,Tableau,Power BI,Data Cleaning,23.2
+Data Analyst,Government,55324,Graduate (0-1 yrs),Yes,SQL,Excel,Data Cleaning,18.5
+Data Analyst,Manufacturing,83756,Graduate (0-1 yrs),Yes,Power BI,Python,Tableau,19.7
+Data Analyst,Media & Comms,120347,Senior (5+ yrs),Hybrid,Tableau,Python,SQL,13.4
+Data Analyst,Tech & SaaS,79429,Graduate (0-1 yrs),No,Data Cleaning,SQL,Power BI,16.1
+Data Analyst,Government,58514,Graduate (0-1 yrs),Hybrid,Python,Data Cleaning,Tableau,16.4
+Data Analyst,Tech & SaaS,86953,Graduate (0-1 yrs),Hybrid,Tableau,Data Cleaning,Power BI,15.5
+Data Analyst,Media & Comms,69089,Mid (3-5 yrs),Hybrid,Power BI,Excel,SQL,19.4
+Data Analyst,Media & Comms,101306,Mid (3-5 yrs),Yes,Data Cleaning,Python,Tableau,19.5
+Data Analyst,Government,127284,Mid (3-5 yrs),Yes,SQL,Tableau,Data Cleaning,17.4
+Data Analyst,Government,70141,Junior (1-3 yrs),Hybrid,Excel,Power BI,SQL,20.7
+Data Analyst,Consulting,82625,Mid (3-5 yrs),No,Data Cleaning,Tableau,Python,18.1
+Data Analyst,Media & Comms,108117,Senior (5+ yrs),No,Tableau,Power BI,Data Cleaning,19.0
+Data Analyst,Tech & SaaS,63506,Graduate (0-1 yrs),Hybrid,Data Cleaning,Python,Power BI,16.1
+Data Analyst,Healthcare,55000,Graduate (0-1 yrs),Hybrid,Python,SQL,Data Cleaning,18.1
+Data Analyst,Manufacturing,70542,Graduate (0-1 yrs),No,Power BI,Data Cleaning,Python,21.8
+Data Analyst,Education,74590,Mid (3-5 yrs),No,Data Cleaning,SQL,Power BI,17.7
+Data Analyst,Retail & E-commerce,99471,Mid (3-5 yrs),Hybrid,Python,Excel,Power BI,18.8
+Data Analyst,Consulting,58390,Graduate (0-1 yrs),No,Data Cleaning,Tableau,Power BI,16.6
+Data Analyst,Retail & E-commerce,135311,Senior (5+ yrs),Hybrid,Power BI,SQL,Excel,18.4
+Data Analyst,Tech & SaaS,60065,Graduate (0-1 yrs),No,Python,Tableau,Data Cleaning,20.0
+Data Analyst,Healthcare,65738,Graduate (0-1 yrs),Hybrid,Python,Power BI,Excel,17.9
+Data Analyst,Manufacturing,79705,Graduate (0-1 yrs),No,Python,Power BI,SQL,17.7
+Data Analyst,Finance & Banking,71859,Mid (3-5 yrs),No,Power BI,Tableau,Python,19.9
+Data Analyst,Manufacturing,95483,Mid (3-5 yrs),No,Data Cleaning,Python,SQL,17.8
+Data Analyst,Manufacturing,130758,Senior (5+ yrs),Hybrid,Power BI,Excel,Python,21.4
+Data Analyst,Tech & SaaS,76108,Senior (5+ yrs),Yes,Tableau,Power BI,Data Cleaning,22.9
+Data Analyst,Consulting,71970,Graduate (0-1 yrs),No,Tableau,Power BI,Excel,22.5
+Data Analyst,Healthcare,96009,Mid (3-5 yrs),No,Data Cleaning,Power BI,Python,13.2
+Data Analyst,Consulting,104465,Mid (3-5 yrs),Hybrid,Excel,Tableau,Data Cleaning,20.3
+Data Analyst,Consulting,55000,Graduate (0-1 yrs),Hybrid,Tableau,Data Cleaning,Excel,19.6
+Data Analyst,Media & Comms,55000,Graduate (0-1 yrs),No,Data Cleaning,Excel,Tableau,23.3
+Data Analyst,Consulting,76119,Graduate (0-1 yrs),Hybrid,SQL,Data Cleaning,Excel,21.0
+Data Analyst,Tech & SaaS,73352,Graduate (0-1 yrs),Hybrid,Power BI,Tableau,Excel,19.9
+Data Analyst,Retail & E-commerce,95857,Mid (3-5 yrs),No,Tableau,Excel,Python,18.3
+Data Analyst,Healthcare,97411,Mid (3-5 yrs),Yes,Python,Data Cleaning,SQL,20.9
+Data Analyst,Tech & SaaS,61335,Graduate (0-1 yrs),Hybrid,Python,Power BI,Excel,14.9
+Data Analyst,Tech & SaaS,95561,Mid (3-5 yrs),Yes,SQL,Data Cleaning,Tableau,16.4
+Data Analyst,Tech & SaaS,111745,Senior (5+ yrs),Yes,Python,Data Cleaning,Power BI,14.0
+Data Analyst,Manufacturing,92855,Senior (5+ yrs),No,Python,Data Cleaning,Power BI,16.9
+Data Analyst,Tech & SaaS,112986,Junior (1-3 yrs),Hybrid,Excel,SQL,Power BI,23.1
+Data Analyst,Tech & SaaS,92107,Junior (1-3 yrs),Hybrid,Excel,SQL,Tableau,16.6
+Data Analyst,Government,83912,Senior (5+ yrs),Hybrid,Data Cleaning,Tableau,Power BI,19.2
+Data Analyst,Education,118560,Senior (5+ yrs),No,SQL,Excel,Tableau,15.9
+Data Analyst,Manufacturing,57710,Graduate (0-1 yrs),Hybrid,Tableau,Power BI,Excel,15.9
+Data Analyst,Government,104550,Mid (3-5 yrs),Yes,Excel,Tableau,Power BI,18.8
+Data Analyst,Tech & SaaS,110568,Mid (3-5 yrs),No,Power BI,Tableau,Excel,16.2
+Data Analyst,Finance & Banking,78504,Mid (3-5 yrs),No,Python,Power BI,Excel,12.1
+Data Analyst,Government,99450,Junior (1-3 yrs),No,Power BI,Data Cleaning,Tableau,20.1
+Data Analyst,Healthcare,91191,Junior (1-3 yrs),Hybrid,Tableau,Power BI,SQL,20.9
+Data Analyst,Education,79810,Graduate (0-1 yrs),Yes,Data Cleaning,Excel,SQL,18.6
+Data Analyst,Healthcare,122527,Mid (3-5 yrs),No,Data Cleaning,SQL,Excel,15.3
+Data Analyst,Education,101648,Senior (5+ yrs),Yes,SQL,Python,Tableau,21.3
+Data Analyst,Consulting,60428,Graduate (0-1 yrs),Hybrid,Python,Data Cleaning,Excel,14.9
+Data Analyst,Healthcare,58758,Graduate (0-1 yrs),Yes,Tableau,Data Cleaning,Python,18.6
+Data Analyst,Tech & SaaS,78582,Mid (3-5 yrs),Hybrid,Python,Data Cleaning,Tableau,18.5
+Data Analyst,Healthcare,90550,Mid (3-5 yrs),Hybrid,Data Cleaning,Excel,Python,21.0
+Data Analyst,Consulting,97326,Mid (3-5 yrs),No,Python,Data Cleaning,Power BI,17.2
+Data Analyst,Education,96282,Mid (3-5 yrs),No,Python,Excel,SQL,17.5
+Data Analyst,Education,97407,Junior (1-3 yrs),Hybrid,Python,Power BI,Data Cleaning,18.4
+Data Analyst,Finance & Banking,85195,Junior (1-3 yrs),No,Excel,Power BI,Python,18.1
+Data Analyst,Tech & SaaS,87578,Graduate (0-1 yrs),No,Excel,SQL,Python,17.3
+Data Analyst,Media & Comms,101287,Senior (5+ yrs),No,Excel,Data Cleaning,Tableau,22.3
+Data Analyst,Government,125802,Junior (1-3 yrs),Yes,Tableau,SQL,Data Cleaning,12.5
+Business Analyst,Media & Comms,92287,Mid (3-5 yrs),Yes,Process Mapping,Excel,Power BI,13.3
+Business Analyst,Retail & E-commerce,79586,Graduate (0-1 yrs),Hybrid,Process Mapping,Excel,SQL,13.8
+Business Analyst,Healthcare,93526,Mid (3-5 yrs),Yes,Stakeholder Management,Power BI,Excel,14.6
+Business Analyst,Government,81963,Graduate (0-1 yrs),No,Jira,SQL,Power BI,18.0
+Business Analyst,Government,111741,Senior (5+ yrs),Hybrid,Process Mapping,Power BI,Jira,15.3
+Business Analyst,Government,59772,Graduate (0-1 yrs),Hybrid,Process Mapping,Stakeholder Management,SQL,11.6
+Business Analyst,Government,92911,Senior (5+ yrs),Hybrid,Jira,Excel,Power BI,14.9
+Business Analyst,Retail & E-commerce,59272,Graduate (0-1 yrs),Hybrid,Power BI,SQL,Stakeholder Management,12.2
+Business Analyst,Finance & Banking,107476,Junior (1-3 yrs),Hybrid,Stakeholder Management,Jira,Process Mapping,14.4
+Business Analyst,Healthcare,98606,Senior (5+ yrs),No,Excel,SQL,Stakeholder Management,13.9
+Business Analyst,Tech & SaaS,65000,Junior (1-3 yrs),Yes,Power BI,Excel,Stakeholder Management,14.9
+Business Analyst,Manufacturing,79657,Graduate (0-1 yrs),Yes,Excel,Power BI,Process Mapping,15.8
+Business Analyst,Retail & E-commerce,96154,Graduate (0-1 yrs),No,Stakeholder Management,SQL,Excel,17.0
+Business Analyst,Consulting,85210,Graduate (0-1 yrs),Hybrid,Jira,Power BI,Process Mapping,18.5
+Business Analyst,Manufacturing,79140,Junior (1-3 yrs),Hybrid,Power BI,Excel,Stakeholder Management,11.2
+Business Analyst,Media & Comms,55000,Graduate (0-1 yrs),No,Power BI,Stakeholder Management,SQL,13.5
+Business Analyst,Healthcare,71818,Graduate (0-1 yrs),Hybrid,Process Mapping,Power BI,Stakeholder Management,19.6
+Business Analyst,Finance & Banking,94103,Mid (3-5 yrs),Hybrid,Jira,SQL,Power BI,16.5
+Business Analyst,Healthcare,59494,Graduate (0-1 yrs),Hybrid,Power BI,Jira,Process Mapping,13.5
+Business Analyst,Education,81932,Graduate (0-1 yrs),Hybrid,Excel,Stakeholder Management,Power BI,14.0
+Business Analyst,Manufacturing,123239,Junior (1-3 yrs),Hybrid,Stakeholder Management,Process Mapping,Jira,11.1
+Business Analyst,Healthcare,77080,Graduate (0-1 yrs),Yes,Process Mapping,Power BI,Excel,15.7
+Business Analyst,Tech & SaaS,100319,Mid (3-5 yrs),Yes,Jira,SQL,Power BI,12.1
+Business Analyst,Education,78979,Mid (3-5 yrs),Hybrid,Process Mapping,Jira,Excel,9.7
+Business Analyst,Manufacturing,143941,Senior (5+ yrs),Yes,Jira,Process Mapping,Excel,14.4
+Business Analyst,Education,95738,Mid (3-5 yrs),Hybrid,Jira,Process Mapping,Power BI,12.4
+Business Analyst,Consulting,85944,Mid (3-5 yrs),Hybrid,Jira,Stakeholder Management,Excel,17.3
+Business Analyst,Retail & E-commerce,98437,Mid (3-5 yrs),Hybrid,Process Mapping,Power BI,Excel,18.4
+Business Analyst,Consulting,123118,Senior (5+ yrs),Hybrid,Jira,Process Mapping,Power BI,18.5
+Business Analyst,Government,75854,Graduate (0-1 yrs),Hybrid,SQL,Jira,Stakeholder Management,13.3
+Business Analyst,Tech & SaaS,120646,Mid (3-5 yrs),No,Stakeholder Management,SQL,Jira,18.3
+Business Analyst,Education,104663,Mid (3-5 yrs),Hybrid,Power BI,Excel,SQL,13.1
+Business Analyst,Media & Comms,69608,Graduate (0-1 yrs),Hybrid,Excel,Power BI,Jira,11.9
+Business Analyst,Government,104998,Mid (3-5 yrs),Yes,Excel,SQL,Power BI,20.6
+Business Analyst,Consulting,98993,Junior (1-3 yrs),No,Jira,Process Mapping,Power BI,9.3
+Business Analyst,Government,83331,Senior (5+ yrs),Hybrid,Power BI,SQL,Process Mapping,15.5
+Business Analyst,Consulting,90764,Graduate (0-1 yrs),Hybrid,Stakeholder Management,Process Mapping,Jira,15.3
+Business Analyst,Retail & E-commerce,69358,Graduate (0-1 yrs),Hybrid,Excel,Stakeholder Management,Jira,15.4
+Business Analyst,Education,106305,Senior (5+ yrs),Yes,SQL,Stakeholder Management,Power BI,14.3
+Business Analyst,Media & Comms,103524,Junior (1-3 yrs),No,Stakeholder Management,Power BI,Process Mapping,16.1
+Business Analyst,Government,84827,Graduate (0-1 yrs),No,Jira,SQL,Stakeholder Management,9.7
+Business Analyst,Education,96731,Senior (5+ yrs),No,SQL,Jira,Power BI,11.9
+Business Analyst,Healthcare,112808,Mid (3-5 yrs),Yes,Stakeholder Management,Process Mapping,Excel,12.5
+Business Analyst,Media & Comms,79911,Junior (1-3 yrs),Yes,Excel,Jira,Process Mapping,16.8
+Business Analyst,Finance & Banking,132572,Mid (3-5 yrs),No,Process Mapping,Power BI,Jira,14.1
+Business Analyst,Healthcare,81099,Mid (3-5 yrs),No,Jira,Stakeholder Management,Process Mapping,15.5
+Business Analyst,Tech & SaaS,77334,Graduate (0-1 yrs),Hybrid,Power BI,Stakeholder Management,Process Mapping,12.9
+Business Analyst,Tech & SaaS,75923,Junior (1-3 yrs),Hybrid,SQL,Jira,Power BI,15.2
+Business Analyst,Retail & E-commerce,106606,Graduate (0-1 yrs),No,SQL,Jira,Stakeholder Management,16.0
+Business Analyst,Finance & Banking,84648,Senior (5+ yrs),Yes,Power BI,Excel,Jira,14.2
+Business Analyst,Retail & E-commerce,81539,Graduate (0-1 yrs),Hybrid,Power BI,Excel,SQL,12.6
+Business Analyst,Manufacturing,76771,Junior (1-3 yrs),Yes,Excel,Process Mapping,Power BI,8.6
+Business Analyst,Manufacturing,68573,Graduate (0-1 yrs),Hybrid,Excel,Stakeholder Management,Power BI,17.3
+Business Analyst,Healthcare,98163,Junior (1-3 yrs),No,SQL,Stakeholder Management,Jira,14.4
+Business Analyst,Consulting,140052,Senior (5+ yrs),Yes,SQL,Process Mapping,Power BI,13.4
+Business Analyst,Consulting,149026,Senior (5+ yrs),Hybrid,Jira,Power BI,Excel,13.5
+Business Analyst,Government,55000,Graduate (0-1 yrs),Hybrid,Excel,Process Mapping,Power BI,11.8
+Business Analyst,Finance & Banking,118523,Senior (5+ yrs),Yes,Excel,Power BI,Process Mapping,16.3
+Business Analyst,Media & Comms,125571,Mid (3-5 yrs),Hybrid,Process Mapping,Jira,SQL,20.4
+Business Analyst,Manufacturing,65000,Junior (1-3 yrs),No,Power BI,Process Mapping,SQL,16.1
+Business Analyst,Manufacturing,103310,Mid (3-5 yrs),Yes,Stakeholder Management,Power BI,SQL,13.2
+Business Analyst,Education,112452,Senior (5+ yrs),Hybrid,Process Mapping,SQL,Jira,19.9
+Business Analyst,Tech & SaaS,97461,Junior (1-3 yrs),Yes,Jira,SQL,Excel,13.5
+Business Analyst,Education,76098,Junior (1-3 yrs),No,Stakeholder Management,Excel,Power BI,15.9
+Business Analyst,Government,70200,Mid (3-5 yrs),Yes,Jira,Power BI,Stakeholder Management,18.1
+Business Analyst,Healthcare,81250,Senior (5+ yrs),Hybrid,Excel,Jira,Power BI,11.0
+Business Analyst,Consulting,134467,Senior (5+ yrs),Yes,SQL,Process Mapping,Excel,12.1
+Business Analyst,Manufacturing,109872,Junior (1-3 yrs),Hybrid,Excel,Power BI,SQL,14.1
+Business Analyst,Tech & SaaS,119310,Senior (5+ yrs),Hybrid,Process Mapping,Power BI,Excel,17.7
+Business Analyst,Media & Comms,80385,Junior (1-3 yrs),Yes,Stakeholder Management,Excel,Jira,13.4
+Business Analyst,Media & Comms,65000,Junior (1-3 yrs),Yes,Excel,Process Mapping,Power BI,17.9
+Business Analyst,Tech & SaaS,125175,Senior (5+ yrs),No,Jira,Stakeholder Management,Excel,20.1
+Business Analyst,Finance & Banking,75799,Mid (3-5 yrs),Hybrid,Excel,Stakeholder Management,Process Mapping,13.5
+Business Analyst,Manufacturing,96495,Senior (5+ yrs),No,Jira,Stakeholder Management,Power BI,15.1
+Business Analyst,Manufacturing,79441,Junior (1-3 yrs),Hybrid,Power BI,Process Mapping,Jira,19.3
+Business Analyst,Tech & SaaS,93359,Mid (3-5 yrs),Hybrid,SQL,Stakeholder Management,Excel,14.2
+Business Analyst,Manufacturing,95421,Senior (5+ yrs),Hybrid,Jira,Process Mapping,SQL,14.7
+Business Analyst,Finance & Banking,90602,Junior (1-3 yrs),No,SQL,Power BI,Jira,14.4
+Business Analyst,Manufacturing,78807,Junior (1-3 yrs),Hybrid,Power BI,Excel,SQL,18.5
+Business Analyst,Education,84151,Graduate (0-1 yrs),Hybrid,Jira,Excel,SQL,15.4
+Business Analyst,Media & Comms,117243,Mid (3-5 yrs),No,SQL,Process Mapping,Power BI,15.6
+Business Analyst,Education,75401,Graduate (0-1 yrs),No,Excel,SQL,Process Mapping,12.7
+Business Analyst,Finance & Banking,106193,Mid (3-5 yrs),No,Process Mapping,Excel,Power BI,16.7
+Business Analyst,Education,138370,Mid (3-5 yrs),Hybrid,Excel,Stakeholder Management,Jira,16.0
+Business Analyst,Education,74404,Mid (3-5 yrs),Yes,Jira,Process Mapping,Power BI,13.9
+Business Analyst,Manufacturing,73220,Mid (3-5 yrs),Hybrid,Power BI,Stakeholder Management,Jira,16.7
+Business Analyst,Healthcare,84057,Graduate (0-1 yrs),Hybrid,Jira,Process Mapping,SQL,11.7
+Business Analyst,Media & Comms,135039,Mid (3-5 yrs),Yes,Process Mapping,SQL,Power BI,19.2
+Business Analyst,Consulting,69955,Graduate (0-1 yrs),Hybrid,Power BI,Process Mapping,Excel,16.0
+Business Analyst,Finance & Banking,121083,Junior (1-3 yrs),Yes,Stakeholder Management,Jira,Process Mapping,20.7
+Business Analyst,Healthcare,91735,Junior (1-3 yrs),No,Stakeholder Management,Power BI,Excel,15.2
+Business Analyst,Tech & SaaS,97180,Senior (5+ yrs),No,SQL,Stakeholder Management,Excel,12.6
+Business Analyst,Media & Comms,77940,Mid (3-5 yrs),Yes,Power BI,Jira,Excel,16.7
+Business Analyst,Finance & Banking,101329,Junior (1-3 yrs),No,Jira,Excel,SQL,7.8
+Business Analyst,Tech & SaaS,60294,Graduate (0-1 yrs),No,SQL,Stakeholder Management,Jira,14.5
+Business Analyst,Retail & E-commerce,91462,Junior (1-3 yrs),Hybrid,SQL,Stakeholder Management,Excel,12.9
+Business Analyst,Manufacturing,127982,Mid (3-5 yrs),Hybrid,Stakeholder Management,Jira,Excel,11.7
+Business Analyst,Tech & SaaS,69271,Graduate (0-1 yrs),Yes,SQL,Excel,Power BI,15.3
+Business Analyst,Government,122744,Mid (3-5 yrs),Hybrid,Stakeholder Management,Process Mapping,Jira,17.1
+Business Analyst,Retail & E-commerce,73589,Mid (3-5 yrs),Yes,Excel,Stakeholder Management,Jira,14.0
+Business Analyst,Finance & Banking,100486,Senior (5+ yrs),No,Excel,Stakeholder Management,Power BI,13.5
+Business Analyst,Finance & Banking,81250,Senior (5+ yrs),No,Process Mapping,Jira,SQL,13.0
+Business Analyst,Tech & SaaS,98618,Mid (3-5 yrs),Yes,SQL,Excel,Jira,16.0
+Business Analyst,Consulting,85313,Graduate (0-1 yrs),Hybrid,Jira,Process Mapping,Excel,13.9
+Business Analyst,Government,98661,Mid (3-5 yrs),No,Excel,Stakeholder Management,SQL,15.8
+Business Analyst,Government,112086,Junior (1-3 yrs),Hybrid,Jira,SQL,Stakeholder Management,16.4
+Business Analyst,Tech & SaaS,76514,Junior (1-3 yrs),No,Stakeholder Management,SQL,Power BI,15.0
+Business Analyst,Manufacturing,117570,Senior (5+ yrs),No,Power BI,SQL,Stakeholder Management,16.2
+Business Analyst,Government,86945,Mid (3-5 yrs),Hybrid,Process Mapping,Power BI,Jira,18.6
+Business Analyst,Manufacturing,104230,Mid (3-5 yrs),Hybrid,Excel,SQL,Jira,14.0
+Business Analyst,Consulting,99067,Junior (1-3 yrs),No,Excel,Power BI,Stakeholder Management,17.2
+Business Analyst,Consulting,108521,Mid (3-5 yrs),No,Process Mapping,SQL,Stakeholder Management,12.4
+Business Analyst,Tech & SaaS,76387,Mid (3-5 yrs),Yes,Stakeholder Management,Jira,SQL,13.4
+Business Analyst,Government,60666,Graduate (0-1 yrs),Yes,Excel,Stakeholder Management,Power BI,17.6
+Business Analyst,Tech & SaaS,96652,Senior (5+ yrs),Hybrid,Jira,Excel,Power BI,14.9
+Business Analyst,Healthcare,70274,Graduate (0-1 yrs),Yes,SQL,Excel,Jira,12.4
+Business Analyst,Healthcare,75086,Graduate (0-1 yrs),Hybrid,Power BI,Stakeholder Management,SQL,14.5
+Business Analyst,Manufacturing,84250,Graduate (0-1 yrs),No,Jira,SQL,Stakeholder Management,15.2
+Business Analyst,Finance & Banking,61281,Graduate (0-1 yrs),No,Excel,Process Mapping,SQL,13.8
+Business Analyst,Retail & E-commerce,70200,Mid (3-5 yrs),Hybrid,Jira,Stakeholder Management,Process Mapping,10.9
+Business Analyst,Retail & E-commerce,105618,Graduate (0-1 yrs),Yes,Power BI,Excel,Stakeholder Management,12.8
+Business Analyst,Media & Comms,69633,Junior (1-3 yrs),Hybrid,Stakeholder Management,SQL,Process Mapping,17.7
+Business Analyst,Consulting,105053,Junior (1-3 yrs),Hybrid,Process Mapping,Stakeholder Management,Power BI,12.4
+Business Analyst,Healthcare,74260,Graduate (0-1 yrs),No,Excel,Process Mapping,Jira,18.4
+Business Analyst,Manufacturing,102084,Mid (3-5 yrs),Hybrid,Process Mapping,Excel,SQL,15.8
+Business Analyst,Education,89972,Junior (1-3 yrs),Yes,Power BI,Excel,Jira,13.3
+Business Analyst,Manufacturing,68119,Graduate (0-1 yrs),Hybrid,Excel,Jira,Process Mapping,15.3
+Business Analyst,Government,98351,Junior (1-3 yrs),Yes,SQL,Excel,Jira,15.6
+Business Analyst,Healthcare,82105,Junior (1-3 yrs),Hybrid,Power BI,Excel,Jira,14.1
+Business Analyst,Consulting,119872,Mid (3-5 yrs),No,Power BI,Stakeholder Management,SQL,16.0
+Business Analyst,Healthcare,125288,Senior (5+ yrs),No,Excel,Power BI,Stakeholder Management,15.4
+Business Analyst,Media & Comms,100792,Junior (1-3 yrs),Hybrid,Excel,Power BI,Stakeholder Management,14.0
+Business Analyst,Government,87340,Mid (3-5 yrs),Hybrid,Jira,Excel,SQL,16.5
+Business Analyst,Finance & Banking,107181,Senior (5+ yrs),Hybrid,Power BI,Excel,Process Mapping,17.4
+Business Analyst,Consulting,68617,Junior (1-3 yrs),Hybrid,Process Mapping,Jira,Excel,9.9
+Business Analyst,Government,68588,Graduate (0-1 yrs),Yes,SQL,Power BI,Stakeholder Management,14.0
+Business Analyst,Government,71341,Junior (1-3 yrs),No,Stakeholder Management,Process Mapping,Power BI,12.5
+Business Analyst,Retail & E-commerce,122725,Mid (3-5 yrs),Hybrid,Excel,Power BI,Jira,17.2
+Business Analyst,Manufacturing,74545,Graduate (0-1 yrs),Yes,Process Mapping,Excel,Power BI,15.9
+Business Analyst,Manufacturing,100513,Mid (3-5 yrs),Hybrid,SQL,Jira,Excel,15.4
+Business Analyst,Consulting,92822,Mid (3-5 yrs),No,SQL,Power BI,Jira,13.0
+Business Analyst,Tech & SaaS,76715,Graduate (0-1 yrs),Yes,Process Mapping,Power BI,Stakeholder Management,13.2
+Business Analyst,Finance & Banking,145116,Mid (3-5 yrs),Hybrid,Excel,SQL,Power BI,18.7
+Business Analyst,Government,84597,Junior (1-3 yrs),No,Stakeholder Management,Process Mapping,Jira,12.3
+Business Analyst,Healthcare,64199,Graduate (0-1 yrs),Yes,Stakeholder Management,Power BI,Process Mapping,21.1
+Business Analyst,Tech & SaaS,81617,Graduate (0-1 yrs),Yes,SQL,Stakeholder Management,Process Mapping,15.0
+Business Analyst,Healthcare,65000,Junior (1-3 yrs),Hybrid,Excel,Jira,SQL,15.1
+Business Analyst,Consulting,91151,Junior (1-3 yrs),Hybrid,Power BI,Jira,Process Mapping,16.0
+Business Analyst,Healthcare,104136,Senior (5+ yrs),Hybrid,Excel,Power BI,SQL,16.6
+Business Analyst,Retail & E-commerce,90172,Senior (5+ yrs),Yes,SQL,Stakeholder Management,Jira,14.6
+Business Analyst,Consulting,107070,Mid (3-5 yrs),Hybrid,Jira,Power BI,Excel,16.4
+Business Analyst,Manufacturing,90971,Junior (1-3 yrs),Hybrid,Power BI,SQL,Jira,16.6
+Business Analyst,Tech & SaaS,55000,Graduate (0-1 yrs),Hybrid,Excel,Process Mapping,SQL,15.0
+Business Analyst,Tech & SaaS,78362,Junior (1-3 yrs),Yes,Power BI,Excel,Jira,16.8
+Business Analyst,Retail & E-commerce,65000,Junior (1-3 yrs),Hybrid,Stakeholder Management,Process Mapping,Power BI,18.4
+Business Analyst,Media & Comms,119097,Senior (5+ yrs),Yes,SQL,Jira,Stakeholder Management,14.2
+Business Analyst,Retail & E-commerce,77981,Graduate (0-1 yrs),Hybrid,Power BI,Stakeholder Management,Jira,20.9
+Business Analyst,Education,75720,Junior (1-3 yrs),Hybrid,Process Mapping,Jira,SQL,10.3
+Business Analyst,Retail & E-commerce,124652,Senior (5+ yrs),No,SQL,Process Mapping,Stakeholder Management,16.2
+Business Analyst,Retail & E-commerce,55000,Graduate (0-1 yrs),No,Power BI,Jira,SQL,11.0
+Data Scientist,Media & Comms,121610,Mid (3-5 yrs),Hybrid,Pandas,Scikit-learn,Statistics,27.4
+Data Scientist,Consulting,137747,Junior (1-3 yrs),Hybrid,SQL,Scikit-learn,Pandas,28.8
+Data Scientist,Media & Comms,108684,Mid (3-5 yrs),Hybrid,SQL,Scikit-learn,Machine Learning,26.9
+Data Scientist,Government,116189,Graduate (0-1 yrs),Hybrid,Statistics,SQL,Scikit-learn,24.0
+Data Scientist,Tech & SaaS,125700,Mid (3-5 yrs),Yes,Machine Learning,Statistics,Pandas,28.7
+Data Scientist,Consulting,143828,Junior (1-3 yrs),Yes,Python,SQL,Scikit-learn,24.4
+Data Scientist,Tech & SaaS,127126,Senior (5+ yrs),Hybrid,Scikit-learn,Pandas,Machine Learning,29.0
+Data Scientist,Consulting,123040,Mid (3-5 yrs),No,SQL,Python,Statistics,31.6
+Data Scientist,Healthcare,132954,Mid (3-5 yrs),Hybrid,Scikit-learn,Machine Learning,Pandas,31.0
+Data Scientist,Consulting,138812,Senior (5+ yrs),Hybrid,Statistics,SQL,Pandas,23.7
+Data Scientist,Media & Comms,111492,Graduate (0-1 yrs),No,Machine Learning,Statistics,SQL,32.3
+Data Scientist,Consulting,112500,Senior (5+ yrs),Hybrid,Scikit-learn,SQL,Machine Learning,25.4
+Data Scientist,Media & Comms,172800,Mid (3-5 yrs),No,Scikit-learn,Machine Learning,Pandas,27.6
+Data Scientist,Healthcare,167338,Senior (5+ yrs),Hybrid,Machine Learning,Scikit-learn,Pandas,29.1
+Data Scientist,Healthcare,91169,Graduate (0-1 yrs),Yes,Statistics,SQL,Pandas,29.7
+Data Scientist,Healthcare,102848,Junior (1-3 yrs),No,Statistics,Pandas,Scikit-learn,30.3
+Data Scientist,Tech & SaaS,95938,Junior (1-3 yrs),Hybrid,Scikit-learn,Machine Learning,Python,27.0
+Data Scientist,Media & Comms,139539,Mid (3-5 yrs),Yes,Pandas,Python,Statistics,26.2
+Data Scientist,Government,171111,Senior (5+ yrs),No,Statistics,SQL,Machine Learning,31.2
+Data Scientist,Retail & E-commerce,139280,Senior (5+ yrs),No,Python,Scikit-learn,Pandas,29.1
+Data Scientist,Retail & E-commerce,139353,Junior (1-3 yrs),Hybrid,Statistics,Pandas,Python,26.6
+Data Scientist,Education,95040,Junior (1-3 yrs),Hybrid,Machine Learning,Python,Scikit-learn,27.9
+Data Scientist,Government,113945,Senior (5+ yrs),Hybrid,SQL,Machine Learning,Statistics,27.5
+Data Scientist,Retail & E-commerce,167284,Mid (3-5 yrs),Hybrid,Machine Learning,Scikit-learn,Python,33.6
+Data Scientist,Education,128004,Junior (1-3 yrs),Yes,Scikit-learn,SQL,Python,22.0
+Data Scientist,Education,157388,Mid (3-5 yrs),Yes,SQL,Python,Scikit-learn,29.9
+Data Scientist,Consulting,78894,Graduate (0-1 yrs),Hybrid,Statistics,Python,Machine Learning,27.1
+Data Scientist,Consulting,118352,Senior (5+ yrs),No,Scikit-learn,Pandas,Python,21.0
+Data Scientist,Government,115678,Mid (3-5 yrs),Hybrid,Scikit-learn,Machine Learning,SQL,24.8
+Data Scientist,Tech & SaaS,104619,Mid (3-5 yrs),Yes,SQL,Statistics,Pandas,25.7
+Data Scientist,Education,107024,Graduate (0-1 yrs),Yes,Scikit-learn,Pandas,SQL,27.1
+Data Scientist,Media & Comms,98475,Junior (1-3 yrs),No,Machine Learning,Python,Scikit-learn,32.0
+Data Scientist,Tech & SaaS,97200,Mid (3-5 yrs),No,Statistics,SQL,Scikit-learn,21.0
+Data Scientist,Education,127573,Mid (3-5 yrs),Yes,Machine Learning,SQL,Python,25.0
+Data Scientist,Education,90000,Junior (1-3 yrs),No,Statistics,Scikit-learn,Machine Learning,30.0
+Data Scientist,Tech & SaaS,73800,Graduate (0-1 yrs),Hybrid,Machine Learning,Statistics,Pandas,32.4
+Data Scientist,Media & Comms,117931,Junior (1-3 yrs),Hybrid,Machine Learning,SQL,Pandas,31.0
+Data Scientist,Tech & SaaS,73800,Graduate (0-1 yrs),Hybrid,Scikit-learn,Pandas,Python,26.8
+Data Scientist,Healthcare,108285,Graduate (0-1 yrs),Yes,SQL,Pandas,Machine Learning,20.4
+Data Scientist,Retail & E-commerce,112500,Senior (5+ yrs),Hybrid,Pandas,Machine Learning,SQL,27.4
+Data Scientist,Tech & SaaS,97200,Mid (3-5 yrs),Yes,Scikit-learn,Python,Machine Learning,26.0
+Data Scientist,Healthcare,108536,Junior (1-3 yrs),Hybrid,Python,Machine Learning,Pandas,27.4
+Data Scientist,Government,127635,Mid (3-5 yrs),No,SQL,Machine Learning,Scikit-learn,28.0
+Data Scientist,Tech & SaaS,125812,Junior (1-3 yrs),Hybrid,Scikit-learn,Pandas,SQL,25.8
+Data Scientist,Education,97402,Graduate (0-1 yrs),Hybrid,SQL,Scikit-learn,Python,29.6
+Data Scientist,Consulting,91695,Junior (1-3 yrs),Hybrid,Pandas,SQL,Python,25.8
+Data Scientist,Healthcare,141141,Mid (3-5 yrs),No,Machine Learning,Scikit-learn,Pandas,22.9
+Data Scientist,Healthcare,170153,Senior (5+ yrs),Yes,Scikit-learn,Machine Learning,Python,22.5
+Data Scientist,Tech & SaaS,112500,Senior (5+ yrs),Hybrid,Pandas,Machine Learning,Statistics,21.8
+Data Scientist,Retail & E-commerce,111017,Junior (1-3 yrs),Hybrid,Scikit-learn,SQL,Machine Learning,27.5
+Data Scientist,Manufacturing,136202,Senior (5+ yrs),Yes,SQL,Pandas,Scikit-learn,31.9
+Data Scientist,Government,119848,Junior (1-3 yrs),Hybrid,Machine Learning,Statistics,SQL,29.1
+Data Scientist,Education,110491,Junior (1-3 yrs),Hybrid,Machine Learning,Python,Pandas,29.4
+Data Scientist,Consulting,122586,Mid (3-5 yrs),Yes,Pandas,Statistics,Scikit-learn,30.3
+Data Scientist,Finance & Banking,161398,Senior (5+ yrs),Hybrid,Machine Learning,Python,Statistics,29.8
+Data Scientist,Government,113118,Senior (5+ yrs),Yes,Python,Statistics,Scikit-learn,32.0
+Data Scientist,Government,107602,Graduate (0-1 yrs),Hybrid,Python,Pandas,Statistics,29.9
+Data Scientist,Tech & SaaS,151312,Mid (3-5 yrs),No,Machine Learning,SQL,Pandas,25.5
+Data Scientist,Government,123778,Graduate (0-1 yrs),Hybrid,Pandas,Python,Statistics,32.6
+Data Scientist,Retail & E-commerce,90000,Junior (1-3 yrs),Hybrid,SQL,Python,Scikit-learn,30.0
+Data Scientist,Government,138720,Senior (5+ yrs),Hybrid,Pandas,Python,Scikit-learn,28.0
+Data Scientist,Consulting,73800,Graduate (0-1 yrs),Yes,Statistics,Scikit-learn,Machine Learning,31.7
+Data Scientist,Healthcare,73800,Graduate (0-1 yrs),Yes,Pandas,Scikit-learn,Python,33.1
+Data Scientist,Consulting,127623,Mid (3-5 yrs),No,Python,Statistics,Machine Learning,20.4
+Data Scientist,Consulting,87098,Graduate (0-1 yrs),Hybrid,Scikit-learn,SQL,Statistics,27.1
+Data Scientist,Finance & Banking,131323,Mid (3-5 yrs),Hybrid,Scikit-learn,Machine Learning,Python,24.6
+Data Scientist,Tech & SaaS,157117,Senior (5+ yrs),Yes,Machine Learning,Python,Statistics,29.9
+Data Scientist,Government,116811,Graduate (0-1 yrs),Yes,Machine Learning,Pandas,SQL,26.5
+Data Scientist,Tech & SaaS,145232,Senior (5+ yrs),Hybrid,Pandas,SQL,Machine Learning,27.4
+Data Scientist,Healthcare,172800,Mid (3-5 yrs),No,Python,Scikit-learn,SQL,22.9
+Data Scientist,Finance & Banking,131480,Mid (3-5 yrs),No,SQL,Python,Statistics,26.6
+Data Scientist,Healthcare,155534,Junior (1-3 yrs),No,Python,SQL,Scikit-learn,27.9
+Data Scientist,Manufacturing,90000,Junior (1-3 yrs),No,Python,SQL,Machine Learning,25.5
+Data Scientist,Finance & Banking,144694,Junior (1-3 yrs),No,Pandas,Python,SQL,30.7
+Data Scientist,Healthcare,91038,Graduate (0-1 yrs),Hybrid,Statistics,SQL,Pandas,26.4
+Data Scientist,Retail & E-commerce,97200,Mid (3-5 yrs),Yes,SQL,Scikit-learn,Statistics,20.4
+Data Scientist,Education,134191,Mid (3-5 yrs),Yes,Python,Pandas,SQL,34.0
+Data Scientist,Finance & Banking,117000,Mid (3-5 yrs),Hybrid,Scikit-learn,Pandas,Machine Learning,33.2
+Data Scientist,Media & Comms,127761,Junior (1-3 yrs),Hybrid,Python,Machine Learning,SQL,28.2
+Data Scientist,Tech & SaaS,137243,Junior (1-3 yrs),Yes,SQL,Pandas,Machine Learning,26.4
+Data Scientist,Tech & SaaS,112500,Senior (5+ yrs),Hybrid,Pandas,SQL,Statistics,30.5
+Data Scientist,Government,171660,Senior (5+ yrs),Yes,Machine Learning,Pandas,Scikit-learn,24.7
+Data Scientist,Retail & E-commerce,94416,Graduate (0-1 yrs),Yes,Python,Scikit-learn,Pandas,30.0
+Data Scientist,Consulting,180952,Senior (5+ yrs),No,Scikit-learn,SQL,Pandas,23.9
+Data Scientist,Manufacturing,110486,Junior (1-3 yrs),Yes,Statistics,Scikit-learn,Pandas,28.7
+Data Scientist,Media & Comms,85813,Graduate (0-1 yrs),Hybrid,Machine Learning,Statistics,Python,32.1
+Data Scientist,Healthcare,115595,Junior (1-3 yrs),Yes,SQL,Python,Machine Learning,29.8
+Data Scientist,Media & Comms,96136,Graduate (0-1 yrs),No,Scikit-learn,Machine Learning,SQL,26.7
+Data Scientist,Finance & Banking,108451,Mid (3-5 yrs),Hybrid,SQL,Machine Learning,Statistics,28.9
+Data Scientist,Media & Comms,112407,Mid (3-5 yrs),Hybrid,SQL,Machine Learning,Pandas,25.6
+Data Scientist,Finance & Banking,90000,Junior (1-3 yrs),Yes,Scikit-learn,Python,Statistics,26.4
+Data Scientist,Consulting,113871,Mid (3-5 yrs),No,Python,Machine Learning,SQL,31.4
+Data Scientist,Manufacturing,129878,Junior (1-3 yrs),Yes,Machine Learning,Pandas,Statistics,25.5
+Data Scientist,Tech & SaaS,139972,Senior (5+ yrs),Yes,Pandas,Machine Learning,Python,30.6
+Data Scientist,Retail & E-commerce,148174,Mid (3-5 yrs),Hybrid,SQL,Python,Pandas,23.5
+ML Engineer,Consulting,151901,Junior (1-3 yrs),No,SQL,Docker,PyTorch,39.9
+ML Engineer,Consulting,136789,Graduate (0-1 yrs),Yes,TensorFlow,PyTorch,Docker,44.3
+ML Engineer,Government,124092,Mid (3-5 yrs),Hybrid,Docker,MLOps,TensorFlow,40.5
+ML Engineer,Finance & Banking,101894,Graduate (0-1 yrs),No,PyTorch,Docker,MLOps,43.3
+ML Engineer,Finance & Banking,131250,Senior (5+ yrs),No,MLOps,Python,TensorFlow,40.4
+ML Engineer,Retail & E-commerce,120188,Junior (1-3 yrs),Yes,MLOps,Docker,Python,42.7
+ML Engineer,Education,167307,Mid (3-5 yrs),No,Docker,PyTorch,Python,42.8
+ML Engineer,Retail & E-commerce,147921,Senior (5+ yrs),Hybrid,TensorFlow,SQL,Docker,39.3
+ML Engineer,Healthcare,146011,Junior (1-3 yrs),Yes,TensorFlow,PyTorch,SQL,38.8
+ML Engineer,Retail & E-commerce,135255,Mid (3-5 yrs),Hybrid,TensorFlow,Python,PyTorch,36.6
+ML Engineer,Healthcare,113242,Graduate (0-1 yrs),Hybrid,Docker,PyTorch,TensorFlow,42.0
+ML Engineer,Tech & SaaS,113400,Mid (3-5 yrs),No,SQL,MLOps,PyTorch,37.3
+ML Engineer,Government,132130,Junior (1-3 yrs),Hybrid,Python,SQL,MLOps,38.5
+ML Engineer,Retail & E-commerce,131250,Senior (5+ yrs),Hybrid,MLOps,PyTorch,SQL,35.7
+ML Engineer,Media & Comms,125327,Junior (1-3 yrs),No,Python,MLOps,Docker,36.5
+ML Engineer,Retail & E-commerce,86100,Graduate (0-1 yrs),No,Docker,Python,MLOps,44.3
+ML Engineer,Consulting,131322,Graduate (0-1 yrs),No,Python,SQL,TensorFlow,41.1
+ML Engineer,Education,161389,Mid (3-5 yrs),No,MLOps,Python,SQL,39.1
+ML Engineer,Tech & SaaS,141666,Junior (1-3 yrs),Hybrid,MLOps,TensorFlow,SQL,41.7
+ML Engineer,Media & Comms,210031,Senior (5+ yrs),Hybrid,PyTorch,Docker,SQL,33.9
+ML Engineer,Media & Comms,114779,Mid (3-5 yrs),Yes,MLOps,Python,PyTorch,40.6
+ML Engineer,Education,142420,Graduate (0-1 yrs),Yes,Docker,TensorFlow,MLOps,39.1
+ML Engineer,Consulting,125709,Graduate (0-1 yrs),Yes,Docker,PyTorch,SQL,41.5
+ML Engineer,Retail & E-commerce,155107,Senior (5+ yrs),Hybrid,SQL,Python,Docker,41.9
+ML Engineer,Manufacturing,158390,Junior (1-3 yrs),Hybrid,TensorFlow,Python,MLOps,44.5
+ML Engineer,Finance & Banking,86100,Graduate (0-1 yrs),Yes,SQL,Python,PyTorch,35.6
+ML Engineer,Government,118137,Mid (3-5 yrs),Yes,PyTorch,Python,SQL,44.0
+ML Engineer,Retail & E-commerce,94123,Graduate (0-1 yrs),Hybrid,TensorFlow,PyTorch,SQL,39.7
+ML Engineer,Education,126117,Mid (3-5 yrs),Yes,SQL,PyTorch,MLOps,40.6
+ML Engineer,Tech & SaaS,105000,Junior (1-3 yrs),Hybrid,MLOps,PyTorch,Docker,39.9
+ML Engineer,Retail & E-commerce,131673,Graduate (0-1 yrs),No,Python,PyTorch,TensorFlow,44.6
+ML Engineer,Government,133410,Mid (3-5 yrs),Yes,Docker,PyTorch,TensorFlow,43.0
+ML Engineer,Healthcare,149916,Mid (3-5 yrs),Yes,PyTorch,SQL,Python,42.7
+ML Engineer,Tech & SaaS,94907,Graduate (0-1 yrs),Hybrid,SQL,Docker,MLOps,33.1
+ML Engineer,Manufacturing,113400,Mid (3-5 yrs),Hybrid,Python,SQL,Docker,40.9
+ML Engineer,Retail & E-commerce,170938,Senior (5+ yrs),Hybrid,TensorFlow,Docker,MLOps,43.3
+ML Engineer,Finance & Banking,105000,Junior (1-3 yrs),Hybrid,SQL,TensorFlow,PyTorch,44.0
+ML Engineer,Manufacturing,138546,Mid (3-5 yrs),Yes,Docker,Python,TensorFlow,43.9
+ML Engineer,Finance & Banking,131250,Senior (5+ yrs),Hybrid,Docker,Python,TensorFlow,44.1
+ML Engineer,Consulting,175000,Junior (1-3 yrs),Yes,MLOps,Docker,SQL,41.8
+ML Engineer,Media & Comms,165006,Mid (3-5 yrs),Hybrid,Docker,SQL,TensorFlow,40.7
+ML Engineer,Healthcare,108767,Graduate (0-1 yrs),No,SQL,Docker,PyTorch,35.9
+ML Engineer,Healthcare,161592,Junior (1-3 yrs),Yes,MLOps,Python,Docker,42.6
+ML Engineer,Healthcare,117549,Mid (3-5 yrs),Yes,PyTorch,Python,MLOps,44.8
+ML Engineer,Retail & E-commerce,155072,Mid (3-5 yrs),Hybrid,Python,PyTorch,Docker,37.2
+ML Engineer,Government,168743,Senior (5+ yrs),Hybrid,SQL,Python,PyTorch,44.6
+ML Engineer,Education,147528,Mid (3-5 yrs),Hybrid,TensorFlow,PyTorch,Python,39.4
+ML Engineer,Retail & E-commerce,132682,Graduate (0-1 yrs),Hybrid,Docker,PyTorch,SQL,40.9
+ML Engineer,Tech & SaaS,148312,Junior (1-3 yrs),No,TensorFlow,Docker,MLOps,45.5
+ML Engineer,Media & Comms,171522,Senior (5+ yrs),No,SQL,TensorFlow,MLOps,42.4
+ML Engineer,Education,113400,Mid (3-5 yrs),No,SQL,TensorFlow,Python,39.6
+ML Engineer,Government,86918,Graduate (0-1 yrs),No,SQL,TensorFlow,Docker,41.4
+ML Engineer,Tech & SaaS,126932,Junior (1-3 yrs),No,PyTorch,SQL,Python,44.5
+ML Engineer,Retail & E-commerce,108513,Graduate (0-1 yrs),No,TensorFlow,PyTorch,Python,45.6
+ML Engineer,Media & Comms,131250,Senior (5+ yrs),No,TensorFlow,MLOps,Python,48.3
+ML Engineer,Tech & SaaS,218750,Senior (5+ yrs),No,Python,SQL,TensorFlow,39.0
+ML Engineer,Education,181341,Mid (3-5 yrs),Hybrid,Docker,TensorFlow,PyTorch,39.7
+ML Engineer,Tech & SaaS,118942,Graduate (0-1 yrs),Hybrid,Python,MLOps,SQL,41.9
+ML Engineer,Manufacturing,131800,Junior (1-3 yrs),No,MLOps,PyTorch,Docker,39.9
+ML Engineer,Media & Comms,155867,Senior (5+ yrs),Hybrid,TensorFlow,PyTorch,Python,45.5
+Data Engineer,Finance & Banking,108679,Graduate (0-1 yrs),Hybrid,SQL,Python,Spark,34.9
+Data Engineer,Education,101457,Graduate (0-1 yrs),No,Spark,Airflow,Python,36.3
+Data Engineer,Tech & SaaS,78880,Graduate (0-1 yrs),Hybrid,dbt,Python,SQL,33.1
+Data Engineer,Tech & SaaS,141747,Junior (1-3 yrs),Yes,Cloud (AWS/GCP/Azure),Python,dbt,40.1
+Data Engineer,Education,170452,Senior (5+ yrs),Yes,SQL,Spark,Cloud (AWS/GCP/Azure),40.7
+Data Engineer,Manufacturing,77900,Graduate (0-1 yrs),No,Spark,SQL,Cloud (AWS/GCP/Azure),30.1
+Data Engineer,Healthcare,106915,Junior (1-3 yrs),Hybrid,Airflow,SQL,Python,35.4
+Data Engineer,Media & Comms,115494,Graduate (0-1 yrs),No,Python,SQL,dbt,35.3
+Data Engineer,Retail & E-commerce,102600,Mid (3-5 yrs),Yes,SQL,Spark,Airflow,36.5
+Data Engineer,Healthcare,149980,Mid (3-5 yrs),Hybrid,Airflow,dbt,Python,38.0
+Data Engineer,Tech & SaaS,117175,Junior (1-3 yrs),Hybrid,Cloud (AWS/GCP/Azure),Spark,Python,36.3
+Data Engineer,Finance & Banking,158549,Mid (3-5 yrs),Hybrid,Python,Airflow,dbt,36.0
+Data Engineer,Manufacturing,98381,Graduate (0-1 yrs),No,Airflow,Python,dbt,35.8
+Data Engineer,Manufacturing,105558,Junior (1-3 yrs),Yes,Python,SQL,Spark,33.3
+Data Engineer,Healthcare,136253,Mid (3-5 yrs),Hybrid,Airflow,Python,SQL,31.5
+Data Engineer,Tech & SaaS,97901,Graduate (0-1 yrs),Hybrid,Airflow,dbt,SQL,34.4
+Data Engineer,Media & Comms,85101,Graduate (0-1 yrs),Hybrid,SQL,dbt,Airflow,30.0
+Data Engineer,Government,177515,Mid (3-5 yrs),Hybrid,Airflow,SQL,Spark,35.5
+Data Engineer,Media & Comms,82473,Graduate (0-1 yrs),Yes,Spark,Airflow,dbt,33.9
+Data Engineer,Government,77900,Graduate (0-1 yrs),No,dbt,Python,Cloud (AWS/GCP/Azure),35.7
+Data Engineer,Retail & E-commerce,163763,Mid (3-5 yrs),No,Airflow,Python,SQL,32.7
+Data Engineer,Healthcare,108328,Junior (1-3 yrs),Hybrid,dbt,Airflow,Python,36.3
+Data Engineer,Healthcare,114064,Junior (1-3 yrs),Yes,Airflow,dbt,Spark,38.7
+Data Engineer,Consulting,121868,Mid (3-5 yrs),Hybrid,dbt,Spark,Airflow,36.7
+Data Engineer,Retail & E-commerce,117294,Mid (3-5 yrs),Hybrid,dbt,Spark,Cloud (AWS/GCP/Azure),32.6
+Data Engineer,Tech & SaaS,113050,Mid (3-5 yrs),Hybrid,Spark,dbt,Cloud (AWS/GCP/Azure),38.0
+Data Engineer,Media & Comms,108068,Mid (3-5 yrs),Hybrid,Spark,Airflow,Cloud (AWS/GCP/Azure),38.8
+Data Engineer,Tech & SaaS,99461,Graduate (0-1 yrs),Hybrid,Airflow,Spark,dbt,29.6
+Data Engineer,Manufacturing,139950,Senior (5+ yrs),Hybrid,Cloud (AWS/GCP/Azure),dbt,SQL,31.8
+Data Engineer,Government,145375,Mid (3-5 yrs),Hybrid,Spark,Python,Airflow,32.0
+Data Engineer,Consulting,140025,Mid (3-5 yrs),No,Airflow,Python,Cloud (AWS/GCP/Azure),34.1
+Data Engineer,Consulting,83188,Graduate (0-1 yrs),No,SQL,Cloud (AWS/GCP/Azure),Python,32.5
+Data Engineer,Education,131943,Mid (3-5 yrs),Hybrid,dbt,SQL,Cloud (AWS/GCP/Azure),33.1
+Data Engineer,Finance & Banking,91547,Graduate (0-1 yrs),Yes,dbt,Python,SQL,32.0
+Data Engineer,Education,82136,Graduate (0-1 yrs),Hybrid,dbt,Python,SQL,34.9
+Data Engineer,Media & Comms,144491,Mid (3-5 yrs),Yes,Airflow,Cloud (AWS/GCP/Azure),dbt,31.6
+Data Engineer,Consulting,96409,Graduate (0-1 yrs),Yes,dbt,Python,Spark,37.2
+Data Engineer,Consulting,111848,Junior (1-3 yrs),Hybrid,Python,SQL,Cloud (AWS/GCP/Azure),36.2
+Data Engineer,Consulting,111119,Mid (3-5 yrs),No,SQL,Python,dbt,32.8
+Data Engineer,Education,124301,Senior (5+ yrs),Yes,dbt,Cloud (AWS/GCP/Azure),SQL,35.5
+Data Engineer,Finance & Banking,131015,Graduate (0-1 yrs),No,SQL,Cloud (AWS/GCP/Azure),Spark,38.7
+Data Engineer,Retail & E-commerce,136816,Mid (3-5 yrs),No,dbt,Python,SQL,36.4
+Data Engineer,Consulting,80505,Graduate (0-1 yrs),Hybrid,Python,dbt,SQL,35.7
+Data Engineer,Education,103120,Graduate (0-1 yrs),No,Python,Airflow,SQL,38.0
+Data Engineer,Healthcare,141240,Junior (1-3 yrs),No,SQL,Spark,dbt,32.8
+Data Engineer,Education,123350,Junior (1-3 yrs),Hybrid,Cloud (AWS/GCP/Azure),Spark,Airflow,44.7
+Data Engineer,Media & Comms,120933,Graduate (0-1 yrs),Hybrid,Cloud (AWS/GCP/Azure),dbt,Airflow,41.9
+Data Engineer,Government,95000,Junior (1-3 yrs),Hybrid,Spark,Airflow,SQL,32.0
+Data Engineer,Healthcare,95000,Junior (1-3 yrs),Hybrid,dbt,Spark,Python,40.5
+Data Engineer,Government,125210,Junior (1-3 yrs),Yes,SQL,Airflow,Spark,30.8
+Data Engineer,Finance & Banking,102933,Graduate (0-1 yrs),Hybrid,Cloud (AWS/GCP/Azure),dbt,Python,33.8
+Data Engineer,Finance & Banking,118750,Senior (5+ yrs),Hybrid,Spark,SQL,dbt,34.7
+Data Engineer,Finance & Banking,116130,Mid (3-5 yrs),Hybrid,SQL,Airflow,Spark,33.6
+Data Engineer,Tech & SaaS,124782,Senior (5+ yrs),Hybrid,Python,Cloud (AWS/GCP/Azure),Airflow,36.9
+Data Engineer,Retail & E-commerce,95000,Junior (1-3 yrs),Hybrid,Spark,dbt,Cloud (AWS/GCP/Azure),29.4
+Data Engineer,Tech & SaaS,99779,Junior (1-3 yrs),Yes,dbt,Cloud (AWS/GCP/Azure),Airflow,31.0
+Data Engineer,Consulting,131915,Junior (1-3 yrs),Hybrid,Cloud (AWS/GCP/Azure),dbt,SQL,35.5
+Data Engineer,Healthcare,107623,Mid (3-5 yrs),No,Cloud (AWS/GCP/Azure),dbt,Airflow,31.9
+Data Engineer,Media & Comms,82276,Graduate (0-1 yrs),Yes,SQL,Python,dbt,31.5
+Data Engineer,Consulting,118750,Senior (5+ yrs),Yes,SQL,Spark,Cloud (AWS/GCP/Azure),34.4
+Data Engineer,Finance & Banking,181722,Senior (5+ yrs),Hybrid,dbt,Spark,Cloud (AWS/GCP/Azure),35.7
+Data Engineer,Retail & E-commerce,160865,Senior (5+ yrs),Hybrid,Python,SQL,Cloud (AWS/GCP/Azure),41.4
+Data Engineer,Consulting,102600,Mid (3-5 yrs),Hybrid,Spark,Cloud (AWS/GCP/Azure),Airflow,31.2
+Data Engineer,Healthcare,100355,Junior (1-3 yrs),Yes,Spark,Cloud (AWS/GCP/Azure),Airflow,33.0
+Data Engineer,Media & Comms,163212,Senior (5+ yrs),Hybrid,dbt,SQL,Spark,32.5
+Data Engineer,Education,145627,Junior (1-3 yrs),No,dbt,Cloud (AWS/GCP/Azure),Spark,39.7
+Data Engineer,Education,147761,Mid (3-5 yrs),Hybrid,Cloud (AWS/GCP/Azure),Spark,Airflow,34.6
+Data Engineer,Retail & E-commerce,121916,Mid (3-5 yrs),Hybrid,Cloud (AWS/GCP/Azure),Airflow,Python,32.1
+Data Engineer,Tech & SaaS,102600,Mid (3-5 yrs),Yes,Cloud (AWS/GCP/Azure),Spark,Python,33.8
+Data Engineer,Finance & Banking,137404,Junior (1-3 yrs),Yes,dbt,SQL,Spark,28.4
+Data Engineer,Consulting,114062,Junior (1-3 yrs),Yes,Cloud (AWS/GCP/Azure),Airflow,Python,28.1
+Data Engineer,Government,131087,Mid (3-5 yrs),No,Cloud (AWS/GCP/Azure),dbt,Airflow,33.4
+Data Engineer,Media & Comms,145563,Senior (5+ yrs),No,dbt,Spark,Cloud (AWS/GCP/Azure),34.2
+Data Engineer,Healthcare,77900,Graduate (0-1 yrs),Hybrid,dbt,Airflow,Python,39.6
+Data Engineer,Media & Comms,104373,Graduate (0-1 yrs),Hybrid,Spark,Cloud (AWS/GCP/Azure),SQL,42.2
+Data Engineer,Media & Comms,102113,Graduate (0-1 yrs),No,dbt,Python,Cloud (AWS/GCP/Azure),30.5
+Data Engineer,Finance & Banking,139355,Senior (5+ yrs),No,Spark,dbt,Python,35.0
+Data Engineer,Finance & Banking,129422,Junior (1-3 yrs),No,Airflow,dbt,Spark,38.4
+Data Engineer,Education,102600,Mid (3-5 yrs),No,dbt,Cloud (AWS/GCP/Azure),Python,32.2
+Data Engineer,Consulting,114619,Junior (1-3 yrs),Hybrid,Spark,SQL,Airflow,39.8
+Data Engineer,Education,120522,Junior (1-3 yrs),No,dbt,Cloud (AWS/GCP/Azure),Spark,34.0
+Data Engineer,Healthcare,77900,Graduate (0-1 yrs),No,dbt,SQL,Python,37.8
+Data Engineer,Retail & E-commerce,118858,Junior (1-3 yrs),Yes,Spark,Python,Cloud (AWS/GCP/Azure),34.8
+Data Engineer,Retail & E-commerce,110431,Graduate (0-1 yrs),Hybrid,Cloud (AWS/GCP/Azure),Spark,Airflow,39.6
+Data Engineer,Consulting,123049,Mid (3-5 yrs),No,dbt,Cloud (AWS/GCP/Azure),Python,37.0
+BI Developer,Manufacturing,108851,Mid (3-5 yrs),No,Tableau,DAX,SQL,14.1
+BI Developer,Media & Comms,112350,Junior (1-3 yrs),Hybrid,Power BI,Data Modelling,Excel,14.4
+BI Developer,Media & Comms,64478,Graduate (0-1 yrs),Yes,Excel,Data Modelling,DAX,11.8
+BI Developer,Tech & SaaS,107190,Senior (5+ yrs),Hybrid,DAX,Tableau,Data Modelling,10.3
+BI Developer,Education,128797,Junior (1-3 yrs),Hybrid,Tableau,DAX,Power BI,12.8
+BI Developer,Tech & SaaS,126738,Mid (3-5 yrs),Yes,Data Modelling,Power BI,Excel,15.0
+BI Developer,Media & Comms,102321,Junior (1-3 yrs),No,Tableau,Data Modelling,SQL,12.6
+BI Developer,Manufacturing,88894,Junior (1-3 yrs),Hybrid,DAX,SQL,Data Modelling,14.3
+BI Developer,Government,91255,Junior (1-3 yrs),Hybrid,Data Modelling,Power BI,Excel,12.7
+BI Developer,Government,105227,Senior (5+ yrs),Yes,SQL,Excel,Tableau,10.4
+BI Developer,Manufacturing,82609,Mid (3-5 yrs),Hybrid,Tableau,Data Modelling,DAX,14.3
+BI Developer,Government,109781,Junior (1-3 yrs),Hybrid,Tableau,Data Modelling,Power BI,15.4
+BI Developer,Manufacturing,103621,Junior (1-3 yrs),Yes,SQL,DAX,Tableau,11.6
+BI Developer,Finance & Banking,133471,Senior (5+ yrs),Yes,Tableau,DAX,Data Modelling,13.2
+BI Developer,Healthcare,89609,Junior (1-3 yrs),Hybrid,Excel,Power BI,Tableau,8.7
+BI Developer,Media & Comms,123862,Senior (5+ yrs),Hybrid,Data Modelling,SQL,Tableau,16.3
+BI Developer,Government,110108,Senior (5+ yrs),No,DAX,Data Modelling,Excel,9.8
+BI Developer,Healthcare,104203,Senior (5+ yrs),Hybrid,Excel,Data Modelling,Tableau,10.1
+BI Developer,Media & Comms,121672,Junior (1-3 yrs),No,DAX,Power BI,Tableau,10.2
+BI Developer,Retail & E-commerce,104699,Mid (3-5 yrs),No,Power BI,DAX,Data Modelling,16.3
+BI Developer,Manufacturing,103119,Junior (1-3 yrs),Hybrid,Data Modelling,Excel,Tableau,17.1
+BI Developer,Healthcare,108372,Junior (1-3 yrs),Hybrid,SQL,DAX,Excel,15.0
+BI Developer,Manufacturing,79658,Graduate (0-1 yrs),No,DAX,Power BI,SQL,13.7
+BI Developer,Retail & E-commerce,106758,Mid (3-5 yrs),Hybrid,Power BI,Data Modelling,SQL,5.5
+BI Developer,Finance & Banking,83822,Mid (3-5 yrs),Yes,Excel,DAX,Tableau,11.1
+BI Developer,Finance & Banking,66142,Graduate (0-1 yrs),No,SQL,Tableau,Power BI,13.3
+BI Developer,Retail & E-commerce,99792,Senior (5+ yrs),No,Power BI,Tableau,DAX,11.5
+BI Developer,Healthcare,85843,Graduate (0-1 yrs),No,Power BI,SQL,Tableau,16.5
+BI Developer,Consulting,120167,Senior (5+ yrs),No,Data Modelling,DAX,Tableau,12.6
+BI Developer,Media & Comms,66143,Graduate (0-1 yrs),Yes,DAX,Tableau,Data Modelling,17.6
+BI Developer,Tech & SaaS,85510,Graduate (0-1 yrs),Hybrid,Tableau,Excel,SQL,11.5
+BI Developer,Media & Comms,103695,Junior (1-3 yrs),Hybrid,Power BI,Excel,Tableau,14.8
+BI Developer,Retail & E-commerce,83880,Junior (1-3 yrs),No,Data Modelling,Power BI,SQL,12.7
+BI Developer,Tech & SaaS,94554,Junior (1-3 yrs),Hybrid,SQL,Data Modelling,Power BI,8.7
+BI Developer,Education,103754,Junior (1-3 yrs),Yes,DAX,SQL,Excel,17.5
+BI Developer,Finance & Banking,81266,Junior (1-3 yrs),Hybrid,SQL,DAX,Tableau,11.3
+BI Developer,Media & Comms,130073,Senior (5+ yrs),Yes,Power BI,DAX,Tableau,11.0
+BI Developer,Consulting,107801,Mid (3-5 yrs),No,DAX,Data Modelling,SQL,7.1
+BI Developer,Government,79012,Junior (1-3 yrs),Yes,Tableau,Power BI,SQL,10.4
+BI Developer,Manufacturing,98516,Junior (1-3 yrs),Hybrid,DAX,Excel,Data Modelling,11.1
+BI Developer,Manufacturing,82697,Graduate (0-1 yrs),No,Excel,SQL,Tableau,16.3
+BI Developer,Finance & Banking,84983,Junior (1-3 yrs),Yes,SQL,Tableau,Data Modelling,12.2
+BI Developer,Healthcare,70719,Graduate (0-1 yrs),Hybrid,Power BI,Tableau,Excel,10.9
+BI Developer,Consulting,78865,Junior (1-3 yrs),No,Power BI,DAX,Excel,13.6
+BI Developer,Retail & E-commerce,94841,Mid (3-5 yrs),Hybrid,DAX,Data Modelling,SQL,14.2
+BI Developer,Retail & E-commerce,77740,Graduate (0-1 yrs),Hybrid,Tableau,Excel,SQL,11.0
+BI Developer,Healthcare,70755,Graduate (0-1 yrs),Yes,Tableau,Excel,Data Modelling,12.3
+BI Developer,Education,76940,Mid (3-5 yrs),Hybrid,Tableau,Excel,Power BI,16.8
+BI Developer,Healthcare,90700,Mid (3-5 yrs),Yes,SQL,Power BI,Data Modelling,16.5
+BI Developer,Tech & SaaS,72424,Graduate (0-1 yrs),Hybrid,Data Modelling,Tableau,Excel,13.8
+BI Developer,Finance & Banking,116714,Mid (3-5 yrs),Hybrid,Excel,SQL,DAX,8.8
+BI Developer,Media & Comms,104516,Junior (1-3 yrs),Yes,Excel,Data Modelling,Tableau,12.4
+BI Developer,Tech & SaaS,108379,Junior (1-3 yrs),No,SQL,Power BI,Tableau,15.3
+BI Developer,Consulting,83175,Junior (1-3 yrs),Hybrid,Tableau,SQL,Excel,9.0
+BI Developer,Retail & E-commerce,97264,Junior (1-3 yrs),Yes,Data Modelling,DAX,SQL,12.7
+BI Developer,Manufacturing,70000,Junior (1-3 yrs),Hybrid,Power BI,DAX,SQL,11.4
+BI Developer,Manufacturing,127327,Senior (5+ yrs),No,SQL,Tableau,DAX,8.1
+BI Developer,Education,113155,Mid (3-5 yrs),Yes,Excel,SQL,Power BI,6.1
+BI Developer,Education,89373,Junior (1-3 yrs),No,Excel,Power BI,Data Modelling,10.7
+BI Developer,Education,99726,Junior (1-3 yrs),Yes,Data Modelling,SQL,Tableau,12.5
+BI Developer,Finance & Banking,76421,Mid (3-5 yrs),Hybrid,Excel,Data Modelling,Tableau,17.6
+BI Developer,Government,82182,Junior (1-3 yrs),No,Tableau,Power BI,DAX,14.9
+BI Developer,Finance & Banking,107247,Junior (1-3 yrs),Yes,DAX,Power BI,Excel,10.9
+BI Developer,Education,103180,Junior (1-3 yrs),No,SQL,Data Modelling,Tableau,19.9
+BI Developer,Education,72496,Graduate (0-1 yrs),Yes,Power BI,Data Modelling,SQL,9.9
+BI Developer,Tech & SaaS,134976,Senior (5+ yrs),Hybrid,Power BI,DAX,Data Modelling,7.7
+BI Developer,Tech & SaaS,97212,Junior (1-3 yrs),Hybrid,Power BI,Data Modelling,DAX,17.0
+BI Developer,Consulting,108665,Senior (5+ yrs),Hybrid,SQL,Excel,DAX,15.3
+BI Developer,Tech & SaaS,75500,Graduate (0-1 yrs),No,Excel,DAX,Power BI,14.5
+BI Developer,Healthcare,94730,Mid (3-5 yrs),Yes,Power BI,SQL,Data Modelling,9.7
+Analytics Engineer,Government,107963,Graduate (0-1 yrs),No,Python,dbt,SQL,39.7
+Analytics Engineer,Finance & Banking,116178,Junior (1-3 yrs),Hybrid,Snowflake,Git,dbt,42.7
+Analytics Engineer,Healthcare,116550,Mid (3-5 yrs),Hybrid,Data Modelling,Git,Python,39.6
+Analytics Engineer,Tech & SaaS,163141,Senior (5+ yrs),Hybrid,Python,Snowflake,Git,41.3
+Analytics Engineer,Retail & E-commerce,79951,Graduate (0-1 yrs),Hybrid,Python,dbt,Data Modelling,35.9
+Analytics Engineer,Government,85000,Junior (1-3 yrs),Yes,SQL,Snowflake,Python,34.4
+Analytics Engineer,Finance & Banking,114900,Mid (3-5 yrs),Yes,Git,Data Modelling,SQL,38.9
+Analytics Engineer,Tech & SaaS,149537,Senior (5+ yrs),Yes,SQL,dbt,Python,39.4
+Analytics Engineer,Tech & SaaS,138996,Mid (3-5 yrs),Yes,Git,dbt,Data Modelling,35.4
+Analytics Engineer,Education,98030,Graduate (0-1 yrs),No,Python,Data Modelling,Snowflake,37.4
+Analytics Engineer,Retail & E-commerce,156305,Senior (5+ yrs),No,Git,Snowflake,Python,39.1
+Analytics Engineer,Consulting,139120,Mid (3-5 yrs),No,Git,SQL,Python,39.6
+Analytics Engineer,Retail & E-commerce,103891,Junior (1-3 yrs),Hybrid,Snowflake,dbt,Git,46.1
+Analytics Engineer,Healthcare,107337,Junior (1-3 yrs),Yes,Python,SQL,dbt,34.2
+Analytics Engineer,Finance & Banking,109198,Graduate (0-1 yrs),Hybrid,Python,dbt,Git,36.1
+Analytics Engineer,Finance & Banking,95274,Mid (3-5 yrs),Hybrid,Snowflake,Python,SQL,34.7
+Analytics Engineer,Healthcare,127141,Mid (3-5 yrs),No,SQL,Data Modelling,Snowflake,40.4
+Analytics Engineer,Finance & Banking,104866,Mid (3-5 yrs),Hybrid,SQL,Data Modelling,dbt,39.9
+Analytics Engineer,Healthcare,129804,Junior (1-3 yrs),Hybrid,Snowflake,Python,Data Modelling,34.0
+Analytics Engineer,Healthcare,109677,Junior (1-3 yrs),No,Snowflake,Git,dbt,37.5
+Analytics Engineer,Media & Comms,90311,Graduate (0-1 yrs),Hybrid,dbt,Snowflake,Python,38.6
+Analytics Engineer,Healthcare,115717,Graduate (0-1 yrs),Hybrid,Python,SQL,Data Modelling,36.2
+Analytics Engineer,Media & Comms,90631,Junior (1-3 yrs),No,Git,Data Modelling,Snowflake,37.1
+Analytics Engineer,Education,142355,Senior (5+ yrs),Hybrid,SQL,Data Modelling,Python,36.3
+Analytics Engineer,Healthcare,87540,Graduate (0-1 yrs),Yes,Git,SQL,Python,40.5
+Analytics Engineer,Manufacturing,119583,Junior (1-3 yrs),Yes,dbt,Python,Snowflake,42.1
+Analytics Engineer,Media & Comms,118676,Graduate (0-1 yrs),Hybrid,Snowflake,SQL,Data Modelling,33.9
+Analytics Engineer,Finance & Banking,99105,Junior (1-3 yrs),Hybrid,Git,Data Modelling,dbt,39.0
+Analytics Engineer,Healthcare,72525,Graduate (0-1 yrs),No,Python,dbt,Data Modelling,37.4
+Analytics Engineer,Tech & SaaS,78254,Graduate (0-1 yrs),Hybrid,Data Modelling,Snowflake,Python,37.2
+Analytics Engineer,Tech & SaaS,114273,Mid (3-5 yrs),No,Data Modelling,dbt,SQL,41.1
+Analytics Engineer,Tech & SaaS,91147,Graduate (0-1 yrs),No,SQL,Git,Python,37.9
+Analytics Engineer,Finance & Banking,91890,Graduate (0-1 yrs),No,Git,Python,dbt,38.5
+Analytics Engineer,Finance & Banking,142447,Junior (1-3 yrs),No,SQL,Git,Python,39.6
+Analytics Engineer,Consulting,139247,Junior (1-3 yrs),No,Data Modelling,Python,Git,34.3
+Analytics Engineer,Media & Comms,166816,Senior (5+ yrs),No,Python,dbt,Data Modelling,37.5
+Analytics Engineer,Consulting,127099,Graduate (0-1 yrs),Hybrid,dbt,Data Modelling,Snowflake,33.9
+Analytics Engineer,Government,124833,Junior (1-3 yrs),No,Git,Python,Snowflake,37.9
+Analytics Engineer,Consulting,162437,Senior (5+ yrs),No,Data Modelling,dbt,Snowflake,36.1
+Analytics Engineer,Education,102077,Graduate (0-1 yrs),No,Data Modelling,SQL,Snowflake,37.5
+Analytics Engineer,Healthcare,151920,Senior (5+ yrs),Yes,Git,Python,dbt,32.5
+Analytics Engineer,Tech & SaaS,117099,Junior (1-3 yrs),Hybrid,dbt,SQL,Data Modelling,37.4
+Analytics Engineer,Consulting,84341,Graduate (0-1 yrs),Hybrid,dbt,Data Modelling,Git,39.9
+Analytics Engineer,Media & Comms,87557,Junior (1-3 yrs),Yes,dbt,Git,Snowflake,38.9
+Analytics Engineer,Consulting,134560,Senior (5+ yrs),No,SQL,Python,Snowflake,35.3
+AI/ML Analyst,Government,105942,Graduate (0-1 yrs),No,LLMs,Gen AI,Python,53.3
+AI/ML Analyst,Education,127045,Junior (1-3 yrs),Hybrid,LLMs,Prompt Engineering,Python,56.1
+AI/ML Analyst,Healthcare,102646,Senior (5+ yrs),Hybrid,Prompt Engineering,LLMs,Gen AI,58.6
+AI/ML Analyst,Healthcare,75640,Graduate (0-1 yrs),Hybrid,Prompt Engineering,Data Analysis,SQL,53.2
+AI/ML Analyst,Education,101520,Mid (3-5 yrs),Hybrid,Python,LLMs,Gen AI,52.7
+AI/ML Analyst,Retail & E-commerce,96101,Graduate (0-1 yrs),Hybrid,SQL,LLMs,Gen AI,55.4
+AI/ML Analyst,Finance & Banking,124085,Mid (3-5 yrs),Hybrid,Python,SQL,Data Analysis,49.9
+AI/ML Analyst,Manufacturing,105888,Junior (1-3 yrs),No,SQL,Data Analysis,Gen AI,52.1
+AI/ML Analyst,Finance & Banking,110477,Junior (1-3 yrs),Yes,Data Analysis,Prompt Engineering,Python,56.5
+AI/ML Analyst,Retail & E-commerce,86400,Mid (3-5 yrs),No,LLMs,Gen AI,Data Analysis,49.2
+AI/ML Analyst,Media & Comms,92354,Graduate (0-1 yrs),Hybrid,LLMs,Gen AI,Python,54.8
+AI/ML Analyst,Healthcare,111220,Mid (3-5 yrs),Hybrid,Prompt Engineering,SQL,Gen AI,54.0
+AI/ML Analyst,Manufacturing,91419,Junior (1-3 yrs),Yes,Data Analysis,SQL,Prompt Engineering,52.1
+AI/ML Analyst,Consulting,80000,Junior (1-3 yrs),Hybrid,LLMs,Prompt Engineering,Python,52.2
+AI/ML Analyst,Media & Comms,105539,Junior (1-3 yrs),Hybrid,Prompt Engineering,Python,Data Analysis,53.9
+AI/ML Analyst,Finance & Banking,91953,Graduate (0-1 yrs),Hybrid,Gen AI,Python,SQL,55.4
+AI/ML Analyst,Government,80000,Junior (1-3 yrs),Yes,Gen AI,Python,LLMs,54.4
+AI/ML Analyst,Consulting,105369,Junior (1-3 yrs),Hybrid,Python,Prompt Engineering,Gen AI,55.7
+AI/ML Analyst,Manufacturing,116039,Mid (3-5 yrs),Hybrid,Data Analysis,Python,Gen AI,53.3
+AI/ML Analyst,Tech & SaaS,93915,Junior (1-3 yrs),Yes,LLMs,SQL,Python,56.4
+AI/ML Analyst,Tech & SaaS,92328,Graduate (0-1 yrs),Hybrid,Gen AI,Data Analysis,Python,57.4
+AI/ML Analyst,Media & Comms,83923,Graduate (0-1 yrs),Yes,Python,Prompt Engineering,Gen AI,55.0
+AI/ML Analyst,Tech & SaaS,119516,Mid (3-5 yrs),No,Prompt Engineering,SQL,Python,51.9
+AI/ML Analyst,Healthcare,144605,Senior (5+ yrs),Hybrid,LLMs,Gen AI,Python,53.8
+AI/ML Analyst,Consulting,115696,Junior (1-3 yrs),No,Prompt Engineering,Python,LLMs,58.0
+AI/ML Analyst,Manufacturing,135362,Mid (3-5 yrs),Hybrid,SQL,Data Analysis,LLMs,59.1
+AI/ML Analyst,Retail & E-commerce,111766,Junior (1-3 yrs),Hybrid,LLMs,Python,SQL,52.5
+AI/ML Analyst,Government,95459,Junior (1-3 yrs),Yes,SQL,Data Analysis,Prompt Engineering,51.3
+AI/ML Analyst,Manufacturing,92044,Junior (1-3 yrs),Yes,Prompt Engineering,SQL,Data Analysis,52.6
+AI/ML Analyst,Media & Comms,90431,Mid (3-5 yrs),Hybrid,Python,Prompt Engineering,LLMs,54.2
+AI/ML Analyst,Retail & E-commerce,135028,Senior (5+ yrs),Yes,Python,Gen AI,LLMs,52.0
+AI/ML Analyst,Media & Comms,131426,Junior (1-3 yrs),Hybrid,Python,SQL,Prompt Engineering,49.5
+AI/ML Analyst,Media & Comms,105656,Mid (3-5 yrs),No,SQL,Prompt Engineering,Data Analysis,53.5
+AI/ML Analyst,Government,93473,Graduate (0-1 yrs),Hybrid,Python,Gen AI,Data Analysis,52.0
+AI/ML Analyst,Government,112442,Senior (5+ yrs),Hybrid,LLMs,Python,SQL,55.0
+AI/ML Analyst,Healthcare,136120,Senior (5+ yrs),Hybrid,Gen AI,LLMs,Python,58.7
+AI/ML Analyst,Government,106752,Graduate (0-1 yrs),Hybrid,Data Analysis,SQL,Prompt Engineering,58.2
+AI/ML Analyst,Retail & E-commerce,118724,Junior (1-3 yrs),Yes,Gen AI,Python,Data Analysis,56.0
+AI/ML Analyst,Healthcare,86400,Mid (3-5 yrs),No,Prompt Engineering,SQL,Data Analysis,51.8
+AI/ML Analyst,Manufacturing,125726,Mid (3-5 yrs),Yes,Prompt Engineering,Python,SQL,58.1
+Graduate Data Analyst,Consulting,64253,Mid (3-5 yrs),No,Power BI,SQL,Python (basic),22.3
+Graduate Data Analyst,Manufacturing,89146,Senior (5+ yrs),Yes,Power BI,Communication,Python (basic),19.9
+Graduate Data Analyst,Finance & Banking,74905,Mid (3-5 yrs),Hybrid,Communication,SQL,Python (basic),27.7
+Graduate Data Analyst,Retail & E-commerce,113438,Senior (5+ yrs),Hybrid,Python (basic),SQL,Communication,21.6
+Graduate Data Analyst,Healthcare,62890,Graduate (0-1 yrs),Hybrid,Communication,Python (basic),Excel,24.2
+Graduate Data Analyst,Tech & SaaS,76162,Mid (3-5 yrs),Hybrid,Python (basic),Communication,SQL,28.6
+Graduate Data Analyst,Finance & Banking,55486,Graduate (0-1 yrs),No,Attention to Detail,SQL,Power BI,22.5
+Graduate Data Analyst,Manufacturing,62328,Graduate (0-1 yrs),No,Power BI,Excel,Communication,20.9
+Graduate Data Analyst,Finance & Banking,55000,Graduate (0-1 yrs),Hybrid,Power BI,Python (basic),Attention to Detail,18.2
+Graduate Data Analyst,Manufacturing,83286,Mid (3-5 yrs),Hybrid,Python (basic),Attention to Detail,SQL,24.8
+Graduate Data Analyst,Healthcare,74127,Senior (5+ yrs),Yes,Attention to Detail,SQL,Excel,27.1
+Graduate Data Analyst,Government,68587,Mid (3-5 yrs),Hybrid,Attention to Detail,Python (basic),Power BI,22.8
+Graduate Data Analyst,Manufacturing,55000,Graduate (0-1 yrs),No,Attention to Detail,Python (basic),Excel,22.0
+Graduate Data Analyst,Finance & Banking,59787,Graduate (0-1 yrs),Hybrid,SQL,Communication,Attention to Detail,25.3
+Graduate Data Analyst,Finance & Banking,69999,Junior (1-3 yrs),No,Excel,Power BI,Python (basic),21.4
+Graduate Data Analyst,Tech & SaaS,63508,Junior (1-3 yrs),Hybrid,Power BI,Excel,SQL,18.6
+Graduate Data Analyst,Retail & E-commerce,65411,Mid (3-5 yrs),Hybrid,Python (basic),Communication,Excel,19.7
+Graduate Data Analyst,Government,64803,Graduate (0-1 yrs),Hybrid,SQL,Power BI,Excel,18.6
+Graduate Data Analyst,Finance & Banking,66931,Junior (1-3 yrs),Yes,Attention to Detail,Communication,Python (basic),23.4
+Graduate Data Analyst,Healthcare,61861,Junior (1-3 yrs),Hybrid,Excel,Attention to Detail,Communication,22.7
+Graduate Data Analyst,Government,68367,Graduate (0-1 yrs),Yes,Attention to Detail,Python (basic),Communication,21.3
+Graduate Data Analyst,Finance & Banking,62743,Junior (1-3 yrs),No,Communication,Python (basic),Attention to Detail,26.3
+Graduate Data Analyst,Consulting,83276,Mid (3-5 yrs),Hybrid,Communication,Excel,Attention to Detail,20.1
+Graduate Data Analyst,Consulting,55000,Graduate (0-1 yrs),No,Power BI,Python (basic),Excel,23.8
+Graduate Data Analyst,Tech & SaaS,70372,Mid (3-5 yrs),No,Attention to Detail,Python (basic),Excel,28.4
+Graduate Data Analyst,Consulting,77779,Mid (3-5 yrs),Hybrid,Attention to Detail,Power BI,Communication,23.0
+Graduate Data Analyst,Healthcare,72939,Mid (3-5 yrs),Hybrid,Excel,SQL,Attention to Detail,21.8
+Graduate Data Analyst,Tech & SaaS,75546,Mid (3-5 yrs),Hybrid,Attention to Detail,Power BI,Python (basic),19.7
+Graduate Data Analyst,Media & Comms,68784,Mid (3-5 yrs),Hybrid,SQL,Attention to Detail,Excel,19.1
+Graduate Data Analyst,Government,55000,Graduate (0-1 yrs),No,SQL,Python (basic),Communication,20.4
+Graduate Data Analyst,Education,86101,Mid (3-5 yrs),No,Communication,Python (basic),Attention to Detail,25.9
+Graduate Data Analyst,Education,64177,Junior (1-3 yrs),Hybrid,Communication,Excel,Power BI,20.6
+Graduate Data Analyst,Finance & Banking,75936,Mid (3-5 yrs),Yes,SQL,Power BI,Python (basic),20.8
+Graduate Data Analyst,Tech & SaaS,79504,Mid (3-5 yrs),Yes,Communication,Power BI,SQL,24.4
+Graduate Data Analyst,Tech & SaaS,76107,Mid (3-5 yrs),No,SQL,Communication,Excel,17.3
+Graduate Data Analyst,Finance & Banking,62331,Junior (1-3 yrs),Hybrid,Attention to Detail,Communication,Excel,26.4
+Graduate Data Analyst,Media & Comms,77278,Junior (1-3 yrs),Yes,Attention to Detail,Excel,SQL,24.6
+Graduate Data Analyst,Education,90136,Senior (5+ yrs),No,Communication,Attention to Detail,Excel,23.7
+Graduate Data Analyst,Government,75157,Mid (3-5 yrs),Yes,SQL,Excel,Python (basic),26.2
+Graduate Data Analyst,Retail & E-commerce,56911,Graduate (0-1 yrs),Yes,Power BI,Attention to Detail,Python (basic),23.1
+Graduate Data Analyst,Healthcare,66795,Graduate (0-1 yrs),Hybrid,Attention to Detail,Power BI,Communication,18.6
+Graduate Data Analyst,Finance & Banking,67131,Mid (3-5 yrs),Hybrid,Excel,Communication,Attention to Detail,21.5
+Graduate Data Analyst,Consulting,71322,Junior (1-3 yrs),No,Attention to Detail,Excel,Python (basic),18.4
+Graduate Data Analyst,Media & Comms,79712,Senior (5+ yrs),No,Communication,Python (basic),Attention to Detail,23.0
+Graduate Data Analyst,Healthcare,55000,Junior (1-3 yrs),Hybrid,Communication,Attention to Detail,SQL,23.3
+Graduate Data Analyst,Consulting,55000,Junior (1-3 yrs),Hybrid,SQL,Power BI,Excel,21.1
+Graduate Data Analyst,Healthcare,64672,Mid (3-5 yrs),Hybrid,Communication,Power BI,Python (basic),21.3
+Graduate Data Analyst,Media & Comms,67750,Mid (3-5 yrs),Hybrid,Power BI,Communication,Excel,18.8
+Graduate Data Analyst,Consulting,106728,Senior (5+ yrs),Yes,Python (basic),Communication,Attention to Detail,23.0
+Graduate Data Analyst,Healthcare,73587,Junior (1-3 yrs),Yes,Excel,Attention to Detail,SQL,20.0
+Graduate Data Analyst,Finance & Banking,60930,Graduate (0-1 yrs),Hybrid,Python (basic),Attention to Detail,Communication,16.5
+Graduate Data Analyst,Government,62903,Junior (1-3 yrs),Yes,Python (basic),Excel,Attention to Detail,19.6
+Graduate Data Analyst,Education,68490,Junior (1-3 yrs),Hybrid,Python (basic),Attention to Detail,Communication,19.5
+Graduate Data Analyst,Healthcare,70888,Graduate (0-1 yrs),Yes,Power BI,Attention to Detail,Communication,24.3
+Graduate Data Analyst,Consulting,58284,Junior (1-3 yrs),Hybrid,Python (basic),SQL,Power BI,18.0
+Graduate Data Analyst,Education,77380,Mid (3-5 yrs),Hybrid,SQL,Communication,Power BI,15.5
+Graduate Data Analyst,Manufacturing,87361,Mid (3-5 yrs),Hybrid,Python (basic),Attention to Detail,Excel,18.2
+Graduate Data Analyst,Media & Comms,94658,Senior (5+ yrs),Yes,Communication,Python (basic),Power BI,20.2
+Graduate Data Analyst,Government,89004,Mid (3-5 yrs),No,Excel,Attention to Detail,SQL,18.4
+Graduate Data Analyst,Finance & Banking,69702,Junior (1-3 yrs),Yes,Communication,Power BI,SQL,19.1
+Graduate Data Analyst,Consulting,72827,Junior (1-3 yrs),Yes,SQL,Communication,Python (basic),21.8
+Graduate Data Analyst,Healthcare,74388,Mid (3-5 yrs),No,Python (basic),Communication,Excel,25.7
+Graduate Data Analyst,Media & Comms,59258,Graduate (0-1 yrs),Yes,SQL,Power BI,Communication,18.1
+Graduate Data Analyst,Media & Comms,55000,Graduate (0-1 yrs),No,Power BI,Communication,Excel,24.4
+Graduate Data Analyst,Retail & E-commerce,74338,Junior (1-3 yrs),No,Excel,SQL,Attention to Detail,22.6
+Graduate Data Analyst,Media & Comms,70353,Junior (1-3 yrs),No,Excel,Attention to Detail,Communication,24.3
+Graduate Data Analyst,Tech & SaaS,68501,Junior (1-3 yrs),Yes,Python (basic),Communication,Power BI,20.1
+Graduate Data Analyst,Media & Comms,88528,Mid (3-5 yrs),Hybrid,Power BI,SQL,Python (basic),21.8
+Graduate Data Analyst,Healthcare,71146,Mid (3-5 yrs),Yes,Attention to Detail,Power BI,Excel,25.0
+Graduate Data Analyst,Finance & Banking,83874,Mid (3-5 yrs),No,Python (basic),Excel,Attention to Detail,21.8
+Graduate Data Analyst,Education,78458,Junior (1-3 yrs),Hybrid,Communication,SQL,Excel,26.2
+Graduate Data Analyst,Manufacturing,74844,Junior (1-3 yrs),Hybrid,SQL,Power BI,Attention to Detail,18.4
+Graduate Data Analyst,Media & Comms,60279,Junior (1-3 yrs),Hybrid,Attention to Detail,Power BI,Excel,27.4
+Graduate Data Analyst,Education,70872,Junior (1-3 yrs),Yes,Communication,Python (basic),Power BI,22.2
+Graduate Data Analyst,Finance & Banking,90360,Mid (3-5 yrs),Yes,Excel,Power BI,SQL,27.4
+Graduate Data Analyst,Finance & Banking,66813,Senior (5+ yrs),No,Excel,Python (basic),Communication,24.6
+Graduate Data Analyst,Retail & E-commerce,71817,Mid (3-5 yrs),Yes,Excel,Python (basic),SQL,26.6
+Graduate Data Analyst,Retail & E-commerce,63384,Graduate (0-1 yrs),Yes,Excel,Attention to Detail,Power BI,24.4
+Graduate Data Analyst,Education,72443,Mid (3-5 yrs),No,Communication,Attention to Detail,Python (basic),18.8
+Graduate Data Analyst,Healthcare,80437,Mid (3-5 yrs),Hybrid,Power BI,SQL,Attention to Detail,20.9
+Graduate Data Analyst,Media & Comms,65003,Graduate (0-1 yrs),Yes,Excel,Power BI,Communication,21.5
+Graduate Data Analyst,Manufacturing,75444,Mid (3-5 yrs),Hybrid,Excel,Power BI,Python (basic),23.9
+Graduate Data Analyst,Finance & Banking,72071,Junior (1-3 yrs),No,Communication,Attention to Detail,Python (basic),15.6
+Graduate Data Analyst,Manufacturing,68734,Junior (1-3 yrs),No,Power BI,SQL,Attention to Detail,25.7
+Graduate Data Analyst,Education,70382,Junior (1-3 yrs),No,Python (basic),SQL,Communication,27.9
+Graduate Data Analyst,Finance & Banking,69552,Graduate (0-1 yrs),Hybrid,Python (basic),Attention to Detail,Power BI,18.7
+Graduate Data Analyst,Tech & SaaS,72887,Mid (3-5 yrs),Yes,SQL,Power BI,Excel,25.6
+Graduate Data Analyst,Finance & Banking,65174,Junior (1-3 yrs),Yes,Communication,Excel,Attention to Detail,26.6
+Graduate Data Analyst,Education,76334,Junior (1-3 yrs),Hybrid,SQL,Python (basic),Power BI,22.3
+Graduate Data Analyst,Education,61256,Junior (1-3 yrs),Hybrid,Communication,Power BI,Python (basic),23.4
+Graduate Data Analyst,Retail & E-commerce,55000,Graduate (0-1 yrs),Hybrid,Communication,SQL,Python (basic),18.7
+Graduate Data Analyst,Manufacturing,55000,Graduate (0-1 yrs),No,Excel,SQL,Attention to Detail,18.4
+Graduate Data Analyst,Consulting,82441,Senior (5+ yrs),No,Power BI,Python (basic),SQL,23.2
+Graduate Data Analyst,Media & Comms,66302,Junior (1-3 yrs),Hybrid,Communication,Python (basic),SQL,21.5
+Graduate Data Analyst,Retail & E-commerce,79479,Mid (3-5 yrs),Yes,Attention to Detail,Python (basic),SQL,26.4
+Graduate Data Analyst,Retail & E-commerce,81576,Senior (5+ yrs),Hybrid,Power BI,Excel,Python (basic),26.3
+Graduate Data Analyst,Tech & SaaS,60610,Graduate (0-1 yrs),No,SQL,Attention to Detail,Power BI,16.2
+Graduate Data Analyst,Tech & SaaS,80906,Mid (3-5 yrs),Hybrid,Python (basic),Power BI,SQL,20.8
+Graduate Data Analyst,Tech & SaaS,55000,Graduate (0-1 yrs),No,Communication,Attention to Detail,SQL,20.8
+Graduate Data Analyst,Finance & Banking,74741,Junior (1-3 yrs),Hybrid,Power BI,SQL,Communication,22.7
+Graduate Data Analyst,Tech & SaaS,61882,Graduate (0-1 yrs),Hybrid,Attention to Detail,SQL,Excel,22.1
+Graduate Data Analyst,Finance & Banking,58224,Mid (3-5 yrs),Yes,Python (basic),Communication,Excel,14.8
+Graduate Data Analyst,Manufacturing,75974,Mid (3-5 yrs),No,Excel,Attention to Detail,Power BI,24.4
+Graduate Data Analyst,Government,79935,Senior (5+ yrs),No,Python (basic),Excel,Power BI,26.1
+Graduate Data Analyst,Education,78424,Junior (1-3 yrs),No,Attention to Detail,SQL,Communication,18.5
+Graduate Data Analyst,Education,68976,Mid (3-5 yrs),Hybrid,Attention to Detail,Excel,Python (basic),22.1
+Graduate Data Analyst,Consulting,71605,Senior (5+ yrs),No,Python (basic),Excel,SQL,22.4
+Graduate Data Analyst,Education,73181,Mid (3-5 yrs),Yes,Attention to Detail,Communication,SQL,25.4
+Graduate Data Analyst,Education,60824,Junior (1-3 yrs),Yes,Communication,Excel,Power BI,26.8
+Graduate Data Analyst,Finance & Banking,80779,Mid (3-5 yrs),Hybrid,Excel,SQL,Python (basic),24.5
+Graduate Data Analyst,Finance & Banking,76913,Senior (5+ yrs),Yes,Attention to Detail,Communication,Python (basic),17.1
+Graduate Data Analyst,Government,55644,Graduate (0-1 yrs),Yes,SQL,Python (basic),Power BI,20.9
+Graduate Data Analyst,Healthcare,80366,Junior (1-3 yrs),Yes,Python (basic),Power BI,Communication,19.6
+Graduate Data Analyst,Finance & Banking,82931,Mid (3-5 yrs),No,Power BI,Python (basic),Communication,27.7
+Graduate Data Analyst,Manufacturing,77567,Mid (3-5 yrs),Hybrid,Excel,Power BI,Communication,20.8
+Graduate Data Analyst,Tech & SaaS,55000,Graduate (0-1 yrs),Yes,Communication,Power BI,Excel,22.6
+Graduate Data Analyst,Finance & Banking,71063,Junior (1-3 yrs),No,Power BI,Python (basic),SQL,23.7
+Graduate Data Analyst,Healthcare,60279,Graduate (0-1 yrs),Hybrid,Communication,SQL,Attention to Detail,21.0
+Graduate Data Analyst,Education,55000,Graduate (0-1 yrs),Yes,Python (basic),Communication,SQL,19.2
+Graduate Data Analyst,Tech & SaaS,74810,Junior (1-3 yrs),Yes,Power BI,Communication,Excel,22.8
